@@ -1,0 +1,14 @@
+Copperleaf Cleaning Ltd  |  Tax invoice  |  Leeds, United Kingdom
+------------------------------------------------------------
+Ref A-93308   Issued 26 Sep 2026   Payment due 26 Oct 2026   Your PO PO-80614
+------------------------------------------------------------
+Item                        Qty                 Amount (GBP)
+Catering for 25               3                       925.11
+Monthly retainer              2                     1,005.24
+Cleaning service              9                     3,875.85
+Delivery fee                  4                       314.48
+Delivery fee                 12                     6,128.28
+------------------------------------------------------------
+Net                                                12,248.96
+VAT/Tax                                                 0.00
+Amount due                                         12,248.96

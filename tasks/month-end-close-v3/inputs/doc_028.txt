@@ -1,0 +1,18 @@
+BRIGHTWATER SUPPLY CO.
+Portland, OR, USA
+INVOICE
+
+Invoice No: NO-34822
+Customer No: C-3381
+Date: September 15, 2026
+Due: 2026-11-14
+
+  Software licence x4 @ $186.45
+  Consulting hours x7 @ $43.58
+  Printing (A4, colour) x2 @ $724.69
+  Printing (A4, colour) x4 @ $652.80
+  Catering for 25 x4 @ $661.05
+
+Subtotal: $7,755.64
+Tax (8.00%): $620.45
+TOTAL: $8,376.09

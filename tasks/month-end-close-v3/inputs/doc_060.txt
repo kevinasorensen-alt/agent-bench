@@ -1,0 +1,17 @@
+Kettle & Pine Catering GmbH
+Hamburg, Germany
+
+Rechnung / Invoice IN-68401
+Rechnungsdatum: 05.09.2026
+Zahlbar bis / Due: 04.11.2026
+Kundennummer: C-5517
+
+  Equipment rental: 9 x 522,42 €
+  Website maintenance: 2 x 436,00 €
+  Cleaning service: 1 x 736,92 €
+  Cleaning service: 2 x 294,25 €
+  Printing (A4, colour): 11 x 358,45 €
+
+Nettobetrag (net): 10.842,15 €
+MwSt./VAT 19%: 2.060,01 €
+Gesamtbetrag (total): 12.902,16 €

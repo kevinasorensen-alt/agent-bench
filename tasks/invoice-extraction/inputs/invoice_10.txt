@@ -1,0 +1,13 @@
+SILVERPEAK CONSULTING
+INVOICE
+
+Invoice No: IN-1678
+Date: 2026-05-02
+Due: May 16, 2026
+
+  Website maintenance x6 @ $602.24
+  Courier run x11 @ $475.58
+
+Subtotal: $8,844.82
+Tax (20%): $1,768.96
+TOTAL: $10,613.78

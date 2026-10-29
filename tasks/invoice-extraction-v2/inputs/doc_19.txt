@@ -1,0 +1,10 @@
+Harbor Line Logistics Ltd  |  Tax invoice  |  Glasgow, United Kingdom
+--------------------------------------------------------
+Ref NO-20733   Issued 18 Apr 2026   Payment due 18 May 2026   Your PO PO-53010
+--------------------------------------------------------
+Item                        Qty             Amount (GBP)
+Monthly retainer              3                   853.47
+--------------------------------------------------------
+Net                                               853.47
+VAT/Tax                                             0.00
+Amount due                                        853.47

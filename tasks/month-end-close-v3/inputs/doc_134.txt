@@ -1,0 +1,15 @@
+BRIGHTWATER SUPPLY CO.
+Portland, OR, USA
+INVOICE
+
+Invoice No: INV-98241
+Customer No: C-8298
+Date: September 25, 2026
+Due: 9 Nov 2026
+
+  Delivery fee x2 @ $890.91
+  Website maintenance x7 @ $618.76
+
+Subtotal: $6,113.14
+Tax (0.00%): $0.00
+TOTAL: $6,113.14

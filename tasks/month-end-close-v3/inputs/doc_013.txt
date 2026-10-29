@@ -1,0 +1,16 @@
+Kettle & Pine Catering GmbH
+Hamburg, Germany
+
+Rechnung / Invoice SI-47218
+Rechnungsdatum: 13.09.2026
+Zahlbar bis / Due: 12.11.2026
+Kundennummer: C-3462
+
+  Equipment rental: 1 x 784,34 €
+  Equipment rental: 8 x 802,53 €
+  Software licence: 1 x 472,13 €
+  Monthly retainer: 10 x 768,65 €
+
+Nettobetrag (net): 15.363,21 €
+MwSt./VAT 20%: 3.072,64 €
+Gesamtbetrag (total): 18.435,85 €

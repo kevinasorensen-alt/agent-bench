@@ -1,0 +1,15 @@
+Copperleaf Cleaning Ltd  |  Tax invoice  |  Leeds, United Kingdom
+------------------------------------------------------------
+Ref NO-63377   Issued 21 Sep 2026   Payment due 20 Nov 2026   Your PO PO-23515
+------------------------------------------------------------
+Item                        Qty                 Amount (GBP)
+Monthly retainer              3                       836.82
+Monthly retainer              1                       761.50
+Software licence              7                     3,670.73
+Consulting hours              8                     1,156.80
+Consulting hours             12                       267.12
+Monthly retainer             11                     9,163.44
+------------------------------------------------------------
+Net                                                15,856.41
+VAT/Tax                                             3,171.28
+Amount due                                         19,027.69

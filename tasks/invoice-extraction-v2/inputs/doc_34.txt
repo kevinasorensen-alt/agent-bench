@@ -1,0 +1,10 @@
+Redfern IT Services  |  Tax invoice  |  Columbus, OH, USA
+--------------------------------------------------------
+Ref NO-3313   Issued 15 Aug 2026   Payment due 14 Oct 2026   Your PO PO-95688
+--------------------------------------------------------
+Item                        Qty             Amount (USD)
+Equipment rental              2                   717.46
+--------------------------------------------------------
+Net                                               717.46
+VAT/Tax                                            57.40
+Amount due                                        774.86

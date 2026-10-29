@@ -1,0 +1,21 @@
+file,invoice_number,vendor,invoice_date,due_date,currency,subtotal,tax,total
+invoice_01.txt,NO-54381,Copperleaf Cleaning Ltd,2026-04-23,2026-05-07,USD,19017.75,950.89,19968.64
+invoice_02.txt,IN-64922,Brightwater Supply Co.,2026-04-24,2026-05-24,USD,2980.64,0.00,2980.64
+invoice_03.txt,NO-83940,Redfern IT Services,2026-03-25,2026-04-08,EUR,3384.96,270.80,3655.76
+invoice_04.txt,IN-8049,Silverpeak Consulting,2026-03-29,2026-04-12,EUR,11799.12,943.93,12743.05
+invoice_05.txt,BW-97121,Orbit Courier Group,2026-03-15,2026-04-14,EUR,1863.75,372.75,2236.50
+invoice_06.txt,NO-97599,Mosaic Event Rentals,2026-05-26,2026-07-10,GBP,9031.89,451.59,9483.48
+invoice_07.txt,IN-47453,Silverpeak Consulting,2026-02-04,2026-03-21,USD,363.82,72.76,436.58
+invoice_08.txt,INV-40033,Kettle & Pine Catering,2026-07-29,2026-08-28,EUR,3571.77,714.35,4286.12
+invoice_09.txt,NO-59489,Orbit Courier Group,2026-04-19,2026-05-03,GBP,493.68,24.68,518.36
+invoice_10.txt,IN-1678,Silverpeak Consulting,2026-05-02,2026-05-16,USD,8844.82,1768.96,10613.78
+invoice_11.txt,BW-66241,Brightwater Supply Co.,2026-08-22,2026-09-05,GBP,7233.20,1446.64,8679.84
+invoice_12.txt,NO-52385,Redfern IT Services,2026-09-24,2026-10-24,GBP,5397.84,0.00,5397.84
+invoice_13.txt,BW-43727,Copperleaf Cleaning Ltd,2026-02-21,2026-03-07,GBP,6538.41,326.92,6865.33
+invoice_14.txt,BW-25690,Redfern IT Services,2026-07-07,2026-08-06,USD,14719.36,1177.55,15896.91
+invoice_15.txt,BW-21112,Silverpeak Consulting,2026-03-28,2026-05-12,USD,13845.04,0.00,13845.04
+invoice_16.txt,INV-47750,Northgate Office Partners,2026-07-30,2026-09-13,EUR,7321.90,366.10,7688.00
+invoice_17.txt,BW-2186,Harbor Line Logistics,2026-09-28,2026-10-12,GBP,13567.48,678.37,14245.85
+invoice_18.txt,INV-55194,Orbit Courier Group,2026-07-23,2026-09-06,USD,5684.47,1136.89,6821.36
+invoice_19.txt,IN-51747,Copperleaf Cleaning Ltd,2026-02-15,2026-03-01,USD,5797.43,289.87,6087.30
+invoice_20.txt,IN-25761,Mosaic Event Rentals,2026-06-08,2026-06-22,USD,9816.61,490.83,10307.44

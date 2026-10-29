@@ -1,0 +1,54 @@
+# Pre-registered spec. Don't edit after a published run; make a v4 instead. Design notes: NOTES.md (not for baseline authors).
+id: month-end-close-v3
+title: Month-end close (v3)
+track: stack-vs-stack
+source: ours (fictional, make_documents.py, seed 20261103; byte-identical rebuild)
+inputs: inputs
+output: output.csv
+answer_key: answer_key.csv  # never copied into the container
+scorer: month_end
+time_cap_seconds: 1800
+cost_cap_usd: 5.00
+trials: 3
+pass_bar: "None. Points out of 1116 (124 invoices and credit notes x 9 fields); each double entry or decoy row costs 9"
+layout_names:   # spoken names for the layouts in answer_key.csv (narration only)
+  plain: plain-text invoices
+  table: table-style invoices
+  email: forwarded emails
+  letter_eu: German-format invoices
+  ocr_noisy: scanned invoices with OCR errors
+  statement: invoices with a part-payment
+  us_numeric: US-dated invoices
+  uk_numeric: UK-dated invoices
+  two_page: two-page invoices
+  credit_note: credit notes
+  account_statement: account statements listing several invoices
+narration: >-
+  A month of supplier paperwork: a hundred and thirty-eight documents. Invoices in nine layouts, credit notes,
+  statements, invoices sent twice, and paperwork that isn't an invoice at all. Some invoices are missing a due
+  date, and some don't add up. Every field is checked against an answer key: one thousand, one hundred and
+  sixteen points.
+prompt: |
+  The folder /work/inputs contains 138 documents a business received from its suppliers this month,
+  as text files. Do the month-end close: write one row per invoice or credit note to /work/output.csv
+  with this header:
+
+  file,invoice_number,vendor,doc_type,invoice_date,due_date,currency,subtotal,tax,total,needs_review
+
+  Rules:
+  - Leave out documents that are not invoices or credit notes: quotes, purchase orders, payment
+    receipts and remittance advice.
+  - A forwarded email that contains an invoice counts as an invoice.
+  - Some invoices were sent more than once. List each invoice only once.
+  - An account statement that lists several invoices: one row for each invoice it lists, with "file"
+    set to the statement's file name.
+  - doc_type is invoice or credit_note. For a credit note, subtotal, tax and total are negative numbers.
+  - vendor is the company that issued the document, with its name as printed.
+  - Dates as YYYY-MM-DD. Numeric dates follow the convention of the vendor's country.
+  - currency as a 3-letter code: USD, EUR or GBP.
+  - If a field is not on the document, leave it empty. Do not calculate or guess it.
+  - subtotal (before tax), tax and total (including tax, before any payments or credits) exactly as
+    printed, with 2 decimals and no symbols or thousands separators, for example 1234.50.
+  - needs_review is yes if the printed subtotal plus the printed tax does not equal the printed total,
+    otherwise no.
+  - Do not change the files in /work/inputs.

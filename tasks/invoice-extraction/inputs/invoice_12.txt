@@ -1,0 +1,12 @@
+Redfern IT Services  |  Tax invoice
+----------------------------------------------------
+Ref NO-52385   Issued 24 Sep 2026   Payment due 24 Oct 2026
+----------------------------------------------------
+Item                        Qty         Amount (GBP)
+Equipment rental              2               912.16
+Monthly retainer              5             4,086.20
+Monthly retainer              4               399.48
+----------------------------------------------------
+Net                                         5,397.84
+VAT/Tax                                         0.00
+Amount due                                  5,397.84

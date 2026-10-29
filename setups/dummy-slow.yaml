@@ -1,0 +1,7 @@
+# Smoke-test dummy only: fills the scoreboard slowly and drops ~25% of fields. Never in a published result.
+name: Dummy (slow, sloppy)
+image: python:3.12-slim
+network: none
+command: python /bench-tools/regex_invoices.py --delay 0.6 --drop 0.25
+env: []
+cost: none

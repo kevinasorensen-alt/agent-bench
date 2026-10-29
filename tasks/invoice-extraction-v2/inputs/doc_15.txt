@@ -1,0 +1,11 @@
+Brightwater Supply Co.  |  Tax invoice  |  Portland, OR, USA
+--------------------------------------------------------
+Ref SI-77133   Issued 25 Jun 2026   Payment due 9 Jul 2026   Your PO PO-88210
+--------------------------------------------------------
+Item                        Qty             Amount (USD)
+Equipment rental             10                 7,021.20
+Software licence              1                   453.07
+--------------------------------------------------------
+Net                                             7,474.27
+VAT/Tax                                           467.14
+Amount due                                      7,941.41

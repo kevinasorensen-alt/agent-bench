@@ -1,0 +1,17 @@
+HARBOR LINE LOGISTICS LTD
+Glasgow, United Kingdom
+INVOICE
+
+Invoice No: A-30734
+Customer No: C-801
+Date: September 20, 2026
+Due: 2026-10-04
+
+  Monthly retainer x5 @ £385.02
+  Cleaning service x9 @ £142.42
+  Monthly retainer x12 @ £778.53
+  Software licence x1 @ £67.89
+
+Subtotal: £12,617.13
+Tax (0.00%): £0.00
+TOTAL: £12,617.13

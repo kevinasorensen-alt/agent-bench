@@ -1,0 +1,15 @@
+KETTLE & PINE CATERING GMBH
+Hamburg, Germany
+INVOICE
+
+Invoice No: NO-7640
+Customer No: C-8034
+Date: 1 Mar 2026
+Due: 2026-03-15
+
+  Catering for 25 x1 @ €609.23
+  Software licence x4 @ €452.66
+
+Subtotal: €2,419.87
+Tax (20.00%): €483.97
+TOTAL: €2,903.84

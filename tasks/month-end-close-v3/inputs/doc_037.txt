@@ -1,0 +1,16 @@
+KETTLE & PINE CATERING GMBH
+Hamburg, Germany
+INVOICE
+
+Invoice No: IN-46458
+Customer No: C-9290
+Date: 2026-09-15
+Due: 15 Oct 2026
+
+  Website maintenance x3 @ €823.08
+  Delivery fee x8 @ €452.82
+  Equipment rental x5 @ €730.51
+
+Subtotal: €9,744.35
+Tax (19.00%): €1,851.43
+TOTAL: €11,595.78

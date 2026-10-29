@@ -1,0 +1,14 @@
+Lumen Print Studio SARL
+Lyon, France
+
+Rechnung / Invoice SI-26138
+Rechnungsdatum: 18.09.2026
+Zahlbar bis / Due: 02.11.2026
+Kundennummer: C-6793
+
+  Printing (A4, colour): 5 x 609,67 €
+  Software licence: 7 x 412,73 €
+
+Nettobetrag (net): 5.937,46 €
+MwSt./VAT 19%: 1.128,12 €
+Gesamtbetrag (total): 7.055,58 €

@@ -1,0 +1,17 @@
+ORBIT COURIER GROUP
+Austin, TX, USA
+INVOICE
+
+Invoice No: SI-81941
+Customer No: C-5364
+Date: 2 Feb 2026
+Due: 2026-03-19
+
+  Consulting hours x7 @ $77.00
+  Delivery fee x8 @ $376.41
+  Cleaning service x5 @ $559.88
+  Catering for 25 x10 @ $102.30
+
+Subtotal: $7,372.68
+Tax (8.00%): $589.81
+TOTAL: $7,962.49

@@ -1,0 +1,18 @@
+Nordlicht Software GmbH
+Munich, Germany
+
+Rechnung / Invoice IN-20737
+Rechnungsdatum: 09.09.2026
+Zahlbar bis / Due: 09.10.2026
+Kundennummer: C-7127
+
+  Consulting hours: 10 x 160,84 €
+  Cleaning service: 6 x 491,30 €
+  Equipment rental: 7 x 845,88 €
+  Website maintenance: 2 x 776,93 €
+  Software licence: 8 x 154,31 €
+  Consulting hours: 8 x 253,06 €
+
+Nettobetrag (net): 15.290,18 €
+MwSt./VAT 20%: 3.058,04 €
+Gesamtbetrag (total): 18.348,22 €

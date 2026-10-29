@@ -1,0 +1,13 @@
+Brightwater Supply Co.  |  Tax invoice
+----------------------------------------------------
+Ref BW-66241   Issued 22 Aug 2026   Payment due 5 Sep 2026
+----------------------------------------------------
+Item                        Qty         Amount (GBP)
+Printing (A4, colour)         8             5,467.60
+Software licence              1               835.87
+Website maintenance           1               621.84
+Website maintenance           1               307.89
+----------------------------------------------------
+Net                                         7,233.20
+VAT/Tax                                     1,446.64
+Amount due                                  8,679.84

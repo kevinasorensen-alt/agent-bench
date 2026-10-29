@@ -1,0 +1,16 @@
+Lumen Print Studio SARL
+Lyon, France
+
+Rechnung / Invoice NO-13114
+Rechnungsdatum: 01.09.2026
+Kundennummer: C-9020
+
+  Delivery fee: 5 x 104,13 €
+  Courier run: 12 x 387,63 €
+  Equipment rental: 7 x 732,56 €
+  Website maintenance: 1 x 25,77 €
+  Consulting hours: 11 x 642,15 €
+
+Nettobetrag (net): 17.389,55 €
+MwSt./VAT 19%: 3.304,01 €
+Gesamtbetrag (total): 20.693,56 €

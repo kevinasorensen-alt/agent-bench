@@ -1,0 +1,16 @@
+HARBOR LINE LOGISTICS LTD
+Glasgow, United Kingdom
+INVOICE
+
+Invoice No: INV-12788
+Customer No: C-1890
+Date: 9 Sep 2026
+
+  Courier run x7 @ £276.11
+  Cleaning service x5 @ £416.56
+  Delivery fee x1 @ £538.78
+  Monthly retainer x1 @ £31.65
+
+Subtotal: £4,586.00
+Tax (20.00%): £917.20
+TOTAL: £5,503.20

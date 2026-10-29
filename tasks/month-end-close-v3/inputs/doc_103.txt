@@ -1,0 +1,13 @@
+Copperleaf Cleaning Ltd  |  Tax invoice  |  Leeds, United Kingdom
+------------------------------------------------------------
+Ref SI-1647   Issued 11 Sep 2026   Payment due 10 Nov 2026   Your PO PO-69287
+------------------------------------------------------------
+Item                        Qty                 Amount (GBP)
+Delivery fee                  3                       330.66
+Cleaning service             12                     3,500.40
+Catering for 25               1                       303.38
+Cleaning service              3                     2,344.86
+------------------------------------------------------------
+Net                                                 6,479.30
+VAT/Tax                                                 0.00
+Amount due                                          6,479.30

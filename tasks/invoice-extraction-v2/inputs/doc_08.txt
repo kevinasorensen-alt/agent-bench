@@ -1,0 +1,13 @@
+Brightwater Supply Co.  |  Tax invoice  |  Portland, OR, USA
+--------------------------------------------------------
+Ref BW-26152   Issued 29 Jul 2026   Payment due 27 Sep 2026   Your PO PO-35648
+--------------------------------------------------------
+Item                        Qty             Amount (USD)
+Courier run                  12                 3,696.72
+Website maintenance           1                   423.56
+Delivery fee                  7                 1,478.68
+Courier run                  12                 5,435.40
+--------------------------------------------------------
+Net                                            11,034.36
+VAT/Tax                                             0.00
+Amount due                                     11,034.36

@@ -1,0 +1,13 @@
+Lumen Print Studio SARL  |  Tax invoice  |  Lyon, France
+------------------------------------------------------------
+Ref INV-84694   Issued 22 Sep 2026   Payment due 6 Nov 2026   Your PO PO-82954
+------------------------------------------------------------
+Item                        Qty                 Amount (EUR)
+Delivery fee                  8                     3,195.28
+Equipment rental              3                       854.28
+Consulting hours              6                     4,233.36
+Cleaning service              8                     6,733.60
+------------------------------------------------------------
+Net                                                15,016.52
+VAT/Tax                                             2,853.14
+Amount due                                         17,869.66

@@ -1,0 +1,13 @@
+Nordlicht Software GmbH  |  Tax invoice  |  Munich, Germany
+------------------------------------------------------------
+Ref A-45885   Issued 28 Sep 2026   Payment due 27 Nov 2026   Your PO PO-13255
+------------------------------------------------------------
+Item                        Qty                 Amount (EUR)
+Software licence             11                     6,943.31
+Cleaning service              7                     2,891.77
+Catering for 25               6                     2,018.16
+Monthly retainer             11                     5,029.86
+------------------------------------------------------------
+Net                                                16,883.10
+VAT/Tax                                             3,545.45
+Amount due                                         20,437.55

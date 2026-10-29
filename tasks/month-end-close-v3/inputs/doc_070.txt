@@ -1,0 +1,18 @@
+JUNIPER WEB DESIGN
+Denver, CO, USA
+INVOICE
+
+Invoice No: IN-19802
+Customer No: C-4178
+Date: September 2, 2026
+Due: 1 Nov 2026
+
+  Cleaning service x9 @ $720.40
+  Cleaning service x7 @ $145.65
+  Delivery fee x7 @ $488.44
+  Printing (A4, colour) x5 @ $238.97
+  Monthly retainer x2 @ $490.34
+
+Subtotal: $13,097.76
+Tax (8.00%): $1,047.82
+TOTAL: $14,145.58

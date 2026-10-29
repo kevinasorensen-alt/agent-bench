@@ -1,0 +1,14 @@
+# Plain Codex CLI on the principal's ChatGPT plan, headless. Login: a fresh copy of ~/.codex/auth.json
+# per trial (deleted afterwards), so the container can't change the host's own login.
+# Build: docker build -t agent-bench/codex:0.156.1 --build-arg CODEX_VERSION=0.156.1 -f agent-bench/docker/codex.Dockerfile agent-bench/docker
+# Cost shown is API-equivalent: tokens x OpenAI list prices for the model (standard tier, <=272K context),
+# copied from developers.openai.com/api/docs/pricing on 2026-10-28.
+name: Codex · GPT-6 Astra
+image: agent-bench/codex:0.156.1
+network: bridge
+command: codex exec --json --skip-git-repo-check --dangerously-bypass-approvals-and-sandbox -m gpt-6-astra -c model_reasoning_effort=medium "$BENCH_PROMPT"
+env: []
+secret_files:
+  - {from: "~/.codex/auth.json", to_dir: /home/node/.codex}
+cost: codex-json
+prices_usd_per_mtok: {input: 10.00, cached_input: 1.00, output: 50.00}

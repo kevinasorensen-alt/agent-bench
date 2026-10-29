@@ -1,0 +1,17 @@
+JUNIPER WEB DESIGN
+Denver, CO, USA
+INVOICE
+
+Invoice No: SI-47930
+Customer No: C-2031
+Date: September 30, 2026
+Due: 14 Oct 2026
+
+  Courier run x10 @ $484.91
+  Delivery fee x10 @ $432.98
+  Printing (A4, colour) x7 @ $26.32
+  Consulting hours x1 @ $453.79
+
+Subtotal: $9,816.93
+Tax (0.00%): $0.00
+TOTAL: $9,816.93

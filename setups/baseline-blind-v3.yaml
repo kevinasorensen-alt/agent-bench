@@ -1,0 +1,9 @@
+# Non-AI baseline for month-end-close-v3, written blind by a separate agent from the task prompt and sample/ only.
+name: Blind script (no AI)
+image: python:3.12-slim
+network: none
+command: python /bench-tools/blind_month_end_v3.py
+env: []
+cost: none
+narration: >-
+  There's no AI inside it, but an AI coding agent wrote it, blind, from eight sample documents.

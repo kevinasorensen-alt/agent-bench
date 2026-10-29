@@ -1,0 +1,44 @@
+file,is_invoice,layout,invoice_number,vendor,invoice_date,due_date,currency,subtotal,tax,total
+doc_01.txt,yes,ocr_noisy,SI-58521,Copperleaf Cleaning Ltd,2026-07-27,2026-09-10,GBP,4340.78,0.00,4340.78
+doc_02.txt,yes,letter_eu,IN-20803,Lumen Print Studio SARL,2026-03-31,2026-05-15,EUR,7447.40,1563.95,9011.35
+doc_03.txt,yes,us_numeric,INV-18704,Juniper Web Design,2026-09-13,2026-09-27,USD,18526.22,1157.89,19684.11
+doc_04.txt,yes,two_page,IN-14537,Lumen Print Studio SARL,2026-08-14,2026-10-13,EUR,8483.45,1696.69,10180.14
+doc_05.txt,yes,email,NO-49342,Redfern IT Services,2026-08-01,2026-09-15,USD,13157.41,0.00,13157.41
+doc_06.txt,yes,email,SI-2566,Orbit Courier Group,2026-08-02,2026-09-01,USD,16300.63,0.00,16300.63
+doc_07.txt,yes,ocr_noisy,INV-90875,Brightwater Supply Co.,2026-04-17,2026-06-01,USD,13949.72,1115.98,15065.70
+doc_08.txt,yes,table,BW-26152,Brightwater Supply Co.,2026-07-29,2026-09-27,USD,11034.36,0.00,11034.36
+doc_09.txt,yes,email,IN-25631,Brightwater Supply Co.,2026-05-16,2026-05-30,USD,4097.25,327.78,4425.03
+doc_10.txt,no,decoy-po,,,,,,,,
+doc_11.txt,yes,uk_numeric,NO-78793,Copperleaf Cleaning Ltd,2026-06-03,2026-07-18,GBP,4466.84,0.00,4466.84
+doc_12.txt,no,decoy-quote,,,,,,,,
+doc_13.txt,yes,ocr_noisy,INV-13887,Redfern IT Services,2026-02-02,2026-03-19,USD,39252.95,0.00,39252.95
+doc_14.txt,yes,letter_eu,SI-28165,Kettle & Pine Catering GmbH,2026-04-19,2026-06-03,EUR,1518.88,318.96,1837.84
+doc_15.txt,yes,table,SI-77133,Brightwater Supply Co.,2026-06-25,2026-07-09,USD,7474.27,467.14,7941.41
+doc_16.txt,yes,two_page,NO-93021,Juniper Web Design,2026-07-26,2026-09-09,USD,2259.84,141.24,2401.08
+doc_17.txt,yes,uk_numeric,BW-27305,Northgate Office Partners Ltd,2026-03-13,2026-05-12,GBP,4842.64,968.53,5811.17
+doc_18.txt,yes,table,BW-24217,Lumen Print Studio SARL,2026-01-31,2026-03-02,EUR,9311.87,1862.37,11174.24
+doc_19.txt,yes,table,NO-20733,Harbor Line Logistics Ltd,2026-04-18,2026-05-18,GBP,853.47,0.00,853.47
+doc_20.txt,yes,plain,A-34480,Kettle & Pine Catering GmbH,2026-06-29,2026-08-13,EUR,9235.88,1939.53,11175.41
+doc_21.txt,yes,email,A-40077,Orbit Courier Group,2026-02-23,2026-04-09,USD,12205.86,762.87,12968.73
+doc_22.txt,yes,statement,IN-77768,Lumen Print Studio SARL,2026-05-14,2026-06-13,EUR,2754.36,578.42,3332.78
+doc_23.txt,yes,plain,A-1550,Juniper Web Design,2026-06-05,2026-08-04,USD,5202.94,416.24,5619.18
+doc_24.txt,yes,table,SI-69236,Lumen Print Studio SARL,2026-01-26,2026-02-09,EUR,13219.57,2776.11,15995.68
+doc_25.txt,yes,us_numeric,IN-65783,Orbit Courier Group,2026-03-24,2026-04-23,USD,8549.12,683.93,9233.05
+doc_26.txt,no,decoy-receipt,,,,,,,,
+doc_27.txt,yes,uk_numeric,A-75977,Copperleaf Cleaning Ltd,2026-04-09,2026-05-24,GBP,20749.22,0.00,20749.22
+doc_28.txt,yes,plain,INV-81944,Mosaic Event Rentals B.V.,2026-09-30,2026-11-29,EUR,2938.48,617.08,3555.56
+doc_29.txt,yes,email,IN-66890,Kettle & Pine Catering GmbH,2026-09-12,2026-10-12,EUR,333.36,66.67,400.03
+doc_30.txt,yes,plain,BW-87328,Juniper Web Design,2026-02-12,2026-03-14,USD,9631.05,601.94,10232.99
+doc_31.txt,yes,plain,INV-88355,Mosaic Event Rentals B.V.,2026-05-20,2026-07-04,EUR,15475.55,3249.87,18725.42
+doc_32.txt,yes,statement,SI-67585,Northgate Office Partners Ltd,2026-01-13,2026-03-14,GBP,8444.84,1688.97,10133.81
+doc_33.txt,yes,statement,SI-43676,Harbor Line Logistics Ltd,2026-08-17,2026-09-16,GBP,6431.42,0.00,6431.42
+doc_34.txt,yes,table,NO-3313,Redfern IT Services,2026-08-15,2026-10-14,USD,717.46,57.40,774.86
+doc_35.txt,yes,us_numeric,SI-2769,Juniper Web Design,2026-01-16,2026-01-30,USD,2545.47,0.00,2545.47
+doc_36.txt,yes,two_page,INV-86387,Lumen Print Studio SARL,2026-08-07,2026-08-21,EUR,26340.66,5004.73,31345.39
+doc_37.txt,yes,plain,NO-7640,Kettle & Pine Catering GmbH,2026-03-01,2026-03-15,EUR,2419.87,483.97,2903.84
+doc_38.txt,yes,table,A-35936,Redfern IT Services,2026-06-27,2026-08-11,USD,4570.08,285.63,4855.71
+doc_39.txt,yes,letter_eu,INV-11240,Kettle & Pine Catering GmbH,2026-02-04,2026-04-05,EUR,3767.06,715.74,4482.80
+doc_40.txt,yes,email,SI-57821,Juniper Web Design,2026-09-29,2026-11-28,USD,11095.70,693.48,11789.18
+doc_41.txt,yes,email,INV-25720,Lumen Print Studio SARL,2026-07-27,2026-09-10,EUR,9584.30,1916.86,11501.16
+doc_42.txt,yes,plain,SI-81941,Orbit Courier Group,2026-02-02,2026-03-19,USD,7372.68,589.81,7962.49
+doc_43.txt,yes,two_page,INV-19927,Redfern IT Services,2026-02-18,2026-03-04,USD,23510.41,0.00,23510.41

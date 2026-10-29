@@ -1,0 +1,12 @@
+Cascade Office Furniture Inc.  |  Tax invoice  |  Tacoma, WA, USA
+------------------------------------------------------------
+Ref A-39270   Issued 8 Sep 2026   Payment due 7 Nov 2026   Your PO PO-86041
+------------------------------------------------------------
+Item                        Qty                 Amount (USD)
+Software licence              9                     1,161.72
+Monthly retainer              2                       447.74
+Cleaning service              3                     2,055.12
+------------------------------------------------------------
+Net                                                 3,664.58
+VAT/Tax                                               229.04
+Amount due                                          3,893.62

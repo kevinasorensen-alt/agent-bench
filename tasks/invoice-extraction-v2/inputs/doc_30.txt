@@ -1,0 +1,18 @@
+JUNIPER WEB DESIGN
+Denver, CO, USA
+INVOICE
+
+Invoice No: BW-87328
+Customer No: C-9741
+Date: 12 Feb 2026
+Due: 2026-03-14
+
+  Courier run x2 @ $439.77
+  Catering for 25 x10 @ $542.12
+  Catering for 25 x9 @ $68.68
+  Software licence x3 @ $411.17
+  Monthly retainer x4 @ $369.67
+
+Subtotal: $9,631.05
+Tax (6.25%): $601.94
+TOTAL: $10,232.99

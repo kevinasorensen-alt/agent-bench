@@ -1,0 +1,17 @@
+Copperleaf Cleaning Ltd
+Leeds, United Kingdom
+
+Invoice number INV-37325
+Tax point / date: 20/09/2026
+Payment due: 19/11/2026
+
+  Cleaning service x5 @ £430.28
+  Delivery fee x7 @ £103.03
+  Equipment rental x10 @ £373.65
+  Website maintenance x12 @ £321.12
+  Equipment rental x10 @ £784.40
+  Delivery fee x3 @ £816.22
+
+Net amount  £20,755.21
+VAT         £4,151.04
+Total       £24,906.25

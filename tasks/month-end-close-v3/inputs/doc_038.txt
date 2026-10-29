@@ -1,0 +1,15 @@
+Redfern IT Services  |  Tax invoice  |  Columbus, OH, USA
+------------------------------------------------------------
+Ref IN-90007   Issued 6 Sep 2026   Payment due 5 Nov 2026   Your PO PO-66950
+------------------------------------------------------------
+Item                        Qty                 Amount (USD)
+Catering for 25              11                     2,385.79
+Equipment rental              3                     2,021.10
+Software licence             12                     5,514.24
+Software licence              4                     2,069.00
+Equipment rental              7                     2,714.32
+Printing (A4, colour)         7                     5,983.39
+------------------------------------------------------------
+Net                                                20,687.84
+VAT/Tax                                                 0.00
+Amount due                                         20,687.84

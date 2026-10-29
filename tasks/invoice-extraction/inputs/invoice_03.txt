@@ -1,0 +1,11 @@
+Redfern IT Services  |  Tax invoice
+----------------------------------------------------
+Ref NO-83940   Issued 25 Mar 2026   Payment due 8 Apr 2026
+----------------------------------------------------
+Item                        Qty         Amount (EUR)
+Catering for 25              12             2,048.64
+Delivery fee                  8             1,336.32
+----------------------------------------------------
+Net                                         3,384.96
+VAT/Tax                                       270.80
+Amount due                                  3,655.76

@@ -1,0 +1,13 @@
+Kettle & Pine Catering GmbH
+Hamburg, Germany
+
+Rechnung / Invoice SI-39900
+Rechnungsdatum: 13.09.2026
+Kundennummer: C-5685
+
+  Software licence: 9 x 228,15 €
+  Consulting hours: 3 x 224,17 €
+
+Nettobetrag (net): 2.725,86 €
+MwSt./VAT 21%: 572,43 €
+Gesamtbetrag (total): 3.298,29 €

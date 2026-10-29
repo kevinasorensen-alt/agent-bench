@@ -1,0 +1,16 @@
+Kettle & Pine Catering GmbH
+Hamburg, Germany
+
+Rechnung / Invoice A-97769
+Rechnungsdatum: 19.09.2026
+Zahlbar bis / Due: 18.11.2026
+Kundennummer: C-6778
+
+  Equipment rental: 12 x 147,18 €
+  Equipment rental: 4 x 531,21 €
+  Consulting hours: 1 x 632,67 €
+  Delivery fee: 11 x 154,27 €
+
+Nettobetrag (net): 6.220,64 €
+MwSt./VAT 20%: 1.244,13 €
+Gesamtbetrag (total): 7.464,77 €

@@ -1,0 +1,17 @@
+REDFERN IT SERVICES
+Columbus, OH, USA
+INVOICE
+
+Invoice No: SI-62802
+Customer No: C-1659
+Date: 2026-08-07
+Due: September 6, 2026
+
+  Consulting hours x1 @ $61.23
+  Consulting hours x12 @ $331.88
+  Catering for 25 x2 @ $241.59
+  Website maintenance x10 @ $624.12
+
+Subtotal: $10,768.17
+Tax (0.00%): $0.00
+TOTAL: $10,768.17

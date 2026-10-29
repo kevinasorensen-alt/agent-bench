@@ -1,0 +1,139 @@
+doc_001.txt: invoice NO-89665
+doc_002.txt: invoice SI-15195
+doc_003.txt: invoice IN-86066
+doc_004.txt: invoice BW-72666
+doc_005.txt: invoice A-30734
+doc_006.txt: skipped (not an invoice)
+doc_007.txt: skipped (not an invoice)
+doc_008.txt: invoice A-50307
+doc_009.txt: skipped (not an invoice)
+doc_010.txt: invoice SI-9034
+doc_011.txt: invoice INV-59650
+doc_012.txt: credit_note CR-14940
+doc_013.txt: invoice SI-47218
+doc_014.txt: invoice A-24164
+doc_015.txt: invoice NO-13114
+doc_016.txt: skipped (not an invoice)
+doc_017.txt: invoice BW-22897
+doc_018.txt: invoice NO-51663
+doc_019.txt: invoice SI-30999
+doc_020.txt: invoice NO-47006
+doc_021.txt: invoice IN-61464
+doc_022.txt: credit_note CR-13388
+doc_023.txt: invoice NO-65558
+doc_024.txt: skipped (not an invoice)
+doc_025.txt: invoice A-82446
+doc_026.txt: invoice NO-19961
+doc_027.txt: invoice A-17354
+doc_028.txt: invoice NO-34822
+doc_029.txt: invoice IN-56636
+doc_030.txt: invoice SI-79258
+doc_031.txt: credit_note CN-81966
+doc_032.txt: invoice NO-22271
+doc_033.txt: statement with 3 invoices
+doc_034.txt: invoice IN-92665
+doc_035.txt: invoice SI-79258
+doc_036.txt: invoice BW-36805
+doc_037.txt: invoice IN-46458
+doc_038.txt: invoice IN-90007
+doc_039.txt: invoice SI-31487
+doc_040.txt: skipped (not an invoice)
+doc_041.txt: invoice IN-30626
+doc_042.txt: invoice NO-85702
+doc_043.txt: credit_note CN-88664
+doc_044.txt: invoice NO-13315
+doc_045.txt: invoice A-39270
+doc_046.txt: invoice INV-3204
+doc_047.txt: skipped (not an invoice)
+doc_048.txt: invoice IN-20737
+doc_049.txt: invoice INV-96455
+doc_050.txt: invoice SI-51297
+doc_051.txt: invoice A-48793
+doc_052.txt: invoice SI-56408
+doc_053.txt: skipped (not an invoice)
+doc_054.txt: invoice SI-82779
+doc_055.txt: invoice BW-57627
+doc_056.txt: invoice A-98812
+doc_057.txt: skipped (not an invoice)
+doc_058.txt: invoice INV-34304
+doc_059.txt: invoice INV-5225
+doc_060.txt: invoice IN-68401
+doc_061.txt: invoice IN-95105
+doc_062.txt: invoice SI-3179
+doc_063.txt: invoice SI-94946
+doc_064.txt: invoice SI-39249
+doc_065.txt: invoice A-93990
+doc_066.txt: invoice A-19540
+doc_067.txt: invoice A-97769
+doc_068.txt: skipped (not an invoice)
+doc_069.txt: invoice INV-84694
+doc_070.txt: invoice IN-19802
+doc_071.txt: skipped (not an invoice)
+doc_072.txt: skipped (not an invoice)
+doc_073.txt: invoice SI-71729
+doc_074.txt: invoice NO-75816
+doc_075.txt: invoice IN-86066
+doc_076.txt: invoice SI-92854
+doc_077.txt: invoice INV-31197
+doc_078.txt: invoice SI-26138
+doc_079.txt: invoice SI-39900
+doc_080.txt: credit_note CN-9603
+doc_081.txt: invoice NO-77970
+doc_082.txt: skipped (not an invoice)
+doc_083.txt: invoice INV-45748
+doc_084.txt: invoice IN-68294
+doc_085.txt: skipped (not an invoice)
+doc_086.txt: invoice A-65082
+doc_087.txt: invoice INV-38005
+doc_088.txt: invoice INV-20452
+doc_089.txt: invoice IN-51960
+doc_090.txt: invoice INV-74272
+doc_091.txt: invoice A-45885
+doc_092.txt: invoice SI-82779
+doc_093.txt: invoice INV-26434
+doc_094.txt: credit_note CN-28124
+doc_095.txt: invoice BW-32657
+doc_096.txt: invoice BW-98975
+doc_097.txt: invoice NO-10573
+doc_098.txt: invoice BW-50851
+doc_099.txt: invoice NO-85702
+doc_100.txt: invoice IN-92665
+doc_101.txt: skipped (not an invoice)
+doc_102.txt: skipped (not an invoice)
+doc_103.txt: invoice SI-1647
+doc_104.txt: credit_note CR-27405
+doc_105.txt: invoice A-26243
+doc_106.txt: invoice SI-43271
+doc_107.txt: invoice IN-87055
+doc_108.txt: statement with 3 invoices
+doc_109.txt: invoice SI-97508
+doc_110.txt: invoice A-12144
+doc_111.txt: skipped (not an invoice)
+doc_112.txt: invoice A-55181
+doc_113.txt: invoice SI-86583
+doc_114.txt: invoice BW-61718
+doc_115.txt: invoice IN-8058
+doc_116.txt: invoice BW-95762
+doc_117.txt: invoice NO-87648
+doc_118.txt: invoice SI-36017
+doc_119.txt: invoice SI-37082
+doc_120.txt: invoice A-62405
+doc_121.txt: invoice SI-53659
+doc_122.txt: skipped (not an invoice)
+doc_123.txt: invoice BW-10399
+doc_124.txt: invoice SI-43271
+doc_125.txt: invoice BW-5257
+doc_126.txt: skipped (not an invoice)
+doc_127.txt: invoice A-14650
+doc_128.txt: invoice SI-96099
+doc_129.txt: invoice INV-58799
+doc_130.txt: invoice INV-37325
+doc_131.txt: invoice NO-52276
+doc_132.txt: credit_note CN-96147
+doc_133.txt: invoice INV-54858
+doc_134.txt: invoice INV-98241
+doc_135.txt: invoice SI-58843
+doc_136.txt: skipped (not an invoice)
+doc_137.txt: invoice SI-31487
+doc_138.txt: invoice IN-9130
+done

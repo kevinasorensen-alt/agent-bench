@@ -1,0 +1,13 @@
+Harbor Line Logistics  |  Tax invoice
+----------------------------------------------------
+Ref BW-2186   Issued 28 Sep 2026   Payment due 12 Oct 2026
+----------------------------------------------------
+Item                        Qty         Amount (GBP)
+Delivery fee                  5             2,681.35
+Cleaning service              5             3,600.45
+Equipment rental              2             1,361.52
+Equipment rental             12             5,924.16
+----------------------------------------------------
+Net                                        13,567.48
+VAT/Tax                                       678.37
+Amount due                                 14,245.85

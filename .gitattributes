@@ -1,0 +1,2 @@
+# Task data must be byte-identical on every OS (published hashes, rebuild checks).
+tasks/** text eol=lf

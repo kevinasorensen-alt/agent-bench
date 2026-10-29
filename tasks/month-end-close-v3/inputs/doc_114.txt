@@ -1,0 +1,14 @@
+Redfern IT Services  |  Tax invoice  |  Columbus, OH, USA
+------------------------------------------------------------
+Ref BW-61718   Issued 19 Sep 2026   Payment due 3 Nov 2026   Your PO PO-35317
+------------------------------------------------------------
+Item                        Qty                 Amount (USD)
+Monthly retainer              8                     6,598.96
+Printing (A4, colour)         5                     4,163.05
+Equipment rental              8                     4,110.64
+Catering for 25               7                     3,772.30
+Website maintenance           1                       691.85
+------------------------------------------------------------
+Net                                                19,336.80
+VAT/Tax                                             1,208.55
+Amount due                                         20,545.35

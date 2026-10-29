@@ -1,0 +1,13 @@
+Lumen Print Studio SARL  |  Tax invoice  |  Lyon, France
+------------------------------------------------------------
+Ref INV-5225   Issued 11 Sep 2026   Payment due 11 Oct 2026   Your PO PO-70832
+------------------------------------------------------------
+Item                        Qty                 Amount (EUR)
+Monthly retainer              8                       648.80
+Delivery fee                  1                       815.18
+Printing (A4, colour)         9                       332.46
+Consulting hours              3                       998.94
+------------------------------------------------------------
+Net                                                 2,795.38
+VAT/Tax                                               559.08
+Amount due                                          3,354.46

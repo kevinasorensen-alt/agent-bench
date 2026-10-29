@@ -1,0 +1,12 @@
+Orbit Courier Group  |  Tax invoice
+----------------------------------------------------
+Ref INV-55194   Issued 23 Jul 2026   Payment due 6 Sep 2026
+----------------------------------------------------
+Item                        Qty         Amount (USD)
+Consulting hours              5             3,359.05
+Courier run                   4             1,054.20
+Monthly retainer              6             1,271.22
+----------------------------------------------------
+Net                                         5,684.47
+VAT/Tax                                     1,136.89
+Amount due                                  6,821.36

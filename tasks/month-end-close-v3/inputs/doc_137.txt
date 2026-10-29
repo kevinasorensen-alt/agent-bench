@@ -1,0 +1,18 @@
+NORDLICHT SOFTWARE GMBH
+Munich, Germany
+INVOICE
+
+Invoice No: SI-31487
+Customer No: C-1914
+Date: 29 Sep 2026
+Due: October 29, 2026
+
+  Cleaning service x1 @ €526.37
+  Courier run x3 @ €200.28
+  Delivery fee x6 @ €537.36
+  Courier run x4 @ €649.08
+  Cleaning service x1 @ €878.64
+
+Subtotal: €7,826.33
+Tax (21.00%): €1,643.53
+TOTAL: €10,469.86

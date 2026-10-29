@@ -1,0 +1,17 @@
+Copperleaf Cleaning Ltd
+Leeds, United Kingdom
+
+Invoice number BW-98975
+Tax point / date: 16/09/2026
+Payment due: 16/10/2026
+
+  Courier run x8 @ £464.48
+  Courier run x12 @ £454.61
+  Catering for 25 x7 @ £724.99
+  Delivery fee x7 @ £156.72
+  Delivery fee x1 @ £420.63
+  Courier run x12 @ £261.95
+
+Net amount  £18,907.16
+VAT         £3,781.43
+Total       £22,688.59

@@ -1,0 +1,13 @@
+Kettle & Pine Catering GmbH
+Hamburg, Germany
+
+Rechnung / Invoice INV-11240
+Rechnungsdatum: 04.02.2026
+Zahlbar bis / Due: 05.04.2026
+Kundennummer: C-4839
+
+  Consulting hours: 11 x 342,46 €
+
+Nettobetrag (net): 3.767,06 €
+MwSt./VAT 19%: 715,74 €
+Gesamtbetrag (total): 4.482,80 €

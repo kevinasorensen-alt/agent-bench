@@ -1,0 +1,16 @@
+JUNIPER WEB DESIGN
+Denver, CO, USA
+INVOICE
+
+Invoice No: A-1550
+Customer No: C-6460
+Date: 2026-06-05
+Due: August 4, 2026
+
+  Equipment rental x10 @ $245.89
+  Website maintenance x7 @ $223.40
+  Monthly retainer x4 @ $295.06
+
+Subtotal: $5,202.94
+Tax (8.00%): $416.24
+TOTAL: $5,619.18

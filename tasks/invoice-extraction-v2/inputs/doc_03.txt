@@ -1,0 +1,18 @@
+Juniper Web Design
+Denver, CO, USA
+
+Invoice #: INV-18704
+Invoice Date: 09/13/2026
+Due Date: 09/27/2026
+PO #: PO-10998
+
+  Catering for 25 x2 @ $821.91
+  Catering for 25 x2 @ $389.17
+  Monthly retainer x6 @ $472.36
+  Delivery fee x10 @ $382.63
+  Consulting hours x10 @ $333.44
+  Software licence x8 @ $763.65
+
+Subtotal: 18,526.22 USD
+Sales tax: 1,157.89 USD
+Total due: 19,684.11 USD

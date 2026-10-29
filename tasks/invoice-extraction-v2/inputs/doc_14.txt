@@ -1,0 +1,14 @@
+Kettle & Pine Catering GmbH
+Hamburg, Germany
+
+Rechnung / Invoice SI-28165
+Rechnungsdatum: 19.04.2026
+Zahlbar bis / Due: 03.06.2026
+Kundennummer: C-8821
+
+  Equipment rental: 2 x 257,79 €
+  Catering for 25: 2 x 501,65 €
+
+Nettobetrag (net): 1.518,88 €
+MwSt./VAT 21%: 318,96 €
+Gesamtbetrag (total): 1.837,84 €

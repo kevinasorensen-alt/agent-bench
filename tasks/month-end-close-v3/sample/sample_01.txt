@@ -1,0 +1,15 @@
+LUMEN PRINT STUDIO SARL
+Lyon, France
+INVOICE
+
+Invoice No: SI-87654
+Customer No: C-139
+Date: September 7, 2026
+Due: 2026-10-07
+
+  Monthly retainer x5 @ €436.47
+  Website maintenance x10 @ €225.46
+
+Subtotal: €4,436.95
+Tax (20.00%): €887.39
+TOTAL: €5,324.34

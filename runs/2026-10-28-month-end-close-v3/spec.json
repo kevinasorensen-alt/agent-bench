@@ -1,0 +1,88 @@
+{
+ "task": {
+  "id": "month-end-close-v3",
+  "title": "Month-end close (v3)",
+  "track": "stack-vs-stack",
+  "source": "ours (fictional, make_documents.py, seed 20261103; byte-identical rebuild)",
+  "inputs": "inputs",
+  "output": "output.csv",
+  "answer_key": "answer_key.csv",
+  "scorer": "month_end",
+  "time_cap_seconds": 1800,
+  "cost_cap_usd": 5.0,
+  "trials": 3,
+  "pass_bar": "None. Points out of 1116 (124 invoices and credit notes x 9 fields); each double entry or decoy row costs 9",
+  "layout_names": {
+   "plain": "plain-text invoices",
+   "table": "table-style invoices",
+   "email": "forwarded emails",
+   "letter_eu": "German-format invoices",
+   "ocr_noisy": "scanned invoices with OCR errors",
+   "statement": "invoices with a part-payment",
+   "us_numeric": "US-dated invoices",
+   "uk_numeric": "UK-dated invoices",
+   "two_page": "two-page invoices",
+   "credit_note": "credit notes",
+   "account_statement": "account statements listing several invoices"
+  },
+  "narration": "A month of supplier paperwork: a hundred and thirty-eight documents. Invoices in nine layouts, credit notes, statements, invoices sent twice, and paperwork that isn't an invoice at all. Some invoices are missing a due date, and some don't add up. Every field is checked against an answer key: one thousand, one hundred and sixteen points.",
+  "prompt": "The folder /work/inputs contains 138 documents a business received from its suppliers this month,\nas text files. Do the month-end close: write one row per invoice or credit note to /work/output.csv\nwith this header:\n\nfile,invoice_number,vendor,doc_type,invoice_date,due_date,currency,subtotal,tax,total,needs_review\n\nRules:\n- Leave out documents that are not invoices or credit notes: quotes, purchase orders, payment\n  receipts and remittance advice.\n- A forwarded email that contains an invoice counts as an invoice.\n- Some invoices were sent more than once. List each invoice only once.\n- An account statement that lists several invoices: one row for each invoice it lists, with \"file\"\n  set to the statement's file name.\n- doc_type is invoice or credit_note. For a credit note, subtotal, tax and total are negative numbers.\n- vendor is the company that issued the document, with its name as printed.\n- Dates as YYYY-MM-DD. Numeric dates follow the convention of the vendor's country.\n- currency as a 3-letter code: USD, EUR or GBP.\n- If a field is not on the document, leave it empty. Do not calculate or guess it.\n- subtotal (before tax), tax and total (including tax, before any payments or credits) exactly as\n  printed, with 2 decimals and no symbols or thousands separators, for example 1234.50.\n- needs_review is yes if the printed subtotal plus the printed tax does not equal the printed total,\n  otherwise no.\n- Do not change the files in /work/inputs.\n",
+  "task_dir": "tasks/month-end-close-v3"
+ },
+ "setups": [
+  {
+   "name": "Blind script (no AI)",
+   "image": "python:3.12-slim",
+   "network": "none",
+   "command": "python /bench-tools/blind_month_end_v3.py",
+   "env": [],
+   "cost": "none",
+   "narration": "There's no AI inside it, but an AI coding agent wrote it, blind, from eight sample documents."
+  },
+  {
+   "name": "Claude Code \u00b7 Opus 5.5",
+   "image": "agent-bench/claude-code:2.1.312",
+   "network": "bridge",
+   "command": "claude -p \"$BENCH_PROMPT\" --model claude-opus-5-5 --output-format stream-json --verbose --dangerously-skip-permissions",
+   "env": [],
+   "secret_files": [
+    {
+     "from": "~/.claude/.credentials.json",
+     "to_dir": "/home/node/.claude",
+     "expires_at": "claudeAiOauth.expiresAt",
+     "keep": {
+      "claudeAiOauth": [
+       "accessToken",
+       "expiresAt",
+       "scopes",
+       "subscriptionType",
+       "subscriptionTypeSource",
+       "rateLimitTier"
+      ]
+     }
+    }
+   ],
+   "cost": "claude-stream-json"
+  },
+  {
+   "name": "Codex \u00b7 GPT-6 Astra",
+   "image": "agent-bench/codex:0.156.1",
+   "network": "bridge",
+   "command": "codex exec --json --skip-git-repo-check --dangerously-bypass-approvals-and-sandbox -m gpt-6-astra -c model_reasoning_effort=medium \"$BENCH_PROMPT\"",
+   "env": [],
+   "secret_files": [
+    {
+     "from": "~/.codex/auth.json",
+     "to_dir": "/home/node/.codex"
+    }
+   ],
+   "cost": "codex-json",
+   "prices_usd_per_mtok": {
+    "input": 10.0,
+    "cached_input": 1.0,
+    "output": 50.0
+   }
+  }
+ ],
+ "trials": 3
+}

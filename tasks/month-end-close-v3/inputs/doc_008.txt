@@ -1,0 +1,15 @@
+Juniper Web Design
+Denver, CO, USA
+
+Invoice #: A-50307
+Invoice Date: 09/01/2026
+PO #: PO-46204
+
+  Printing (A4, colour) x12 @ $16.64
+  Equipment rental x9 @ $377.85
+  Catering for 25 x6 @ $334.36
+  Delivery fee x9 @ $275.50
+
+Subtotal: 8,085.99 USD
+Sales tax: 0.00 USD
+Total due: 8,085.99 USD

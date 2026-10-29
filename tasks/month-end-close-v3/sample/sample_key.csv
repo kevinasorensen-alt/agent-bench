@@ -1,0 +1,9 @@
+invoice_number,files,layout,trap,vendor,doc_type,invoice_date,due_date,currency,subtotal,tax,total,needs_review
+A-14956,sample_03.txt,email,,Orbit Courier Group,invoice,2026-09-24,2026-11-08,USD,4232.00,0.00,4232.00,no
+A-93308,sample_02.txt,table,,Copperleaf Cleaning Ltd,invoice,2026-09-26,2026-10-26,GBP,12248.96,0.00,12248.96,no
+A-94330,sample_06.txt,email,,Juniper Web Design,invoice,2026-09-07,2026-09-21,USD,5158.87,322.43,5481.30,no
+CN-99204,sample_08.txt,credit_note,credit_note,Redfern IT Services,credit_note,2026-09-06,,USD,-19359.01,-1548.72,-20907.73,no
+INV-12788,sample_07.txt,plain,no_due_date,Harbor Line Logistics Ltd,invoice,2026-09-09,,GBP,4586.00,917.20,5503.20,no
+NO-63377,sample_05.txt,table,,Copperleaf Cleaning Ltd,invoice,2026-09-21,2026-11-20,GBP,15856.41,3171.28,19027.69,no
+SI-47930,sample_04.txt,plain,,Juniper Web Design,invoice,2026-09-30,2026-10-14,USD,9816.93,0.00,9816.93,no
+SI-87654,sample_01.txt,plain,,Lumen Print Studio SARL,invoice,2026-09-07,2026-10-07,EUR,4436.95,887.39,5324.34,no

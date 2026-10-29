@@ -1,0 +1,14 @@
+SILVERPEAK CONSULTING
+INVOICE
+
+Invoice No: IN-8049
+Date: March 29, 2026
+Due: 2026-04-12
+
+  Monthly retainer x6 @ €444.91
+  Catering for 25 x12 @ €117.83
+  Equipment rental x9 @ €857.30
+
+Subtotal: €11,799.12
+Tax (8%): €943.93
+TOTAL: €12,743.05

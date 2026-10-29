@@ -1,0 +1,13 @@
+Lumen Print Studio SARL  |  Tax invoice  |  Lyon, France
+--------------------------------------------------------
+Ref BW-24217   Issued 31 Jan 2026   Payment due 2 Mar 2026   Your PO PO-15243
+--------------------------------------------------------
+Item                        Qty             Amount (EUR)
+Consulting hours             10                 4,675.90
+Website maintenance           9                 2,652.48
+Cleaning service              5                   716.05
+Equipment rental              2                 1,267.44
+--------------------------------------------------------
+Net                                             9,311.87
+VAT/Tax                                         1,862.37
+Amount due                                     11,174.24

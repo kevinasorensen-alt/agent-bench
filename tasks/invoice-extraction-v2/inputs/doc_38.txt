@@ -1,0 +1,10 @@
+Redfern IT Services  |  Tax invoice  |  Columbus, OH, USA
+--------------------------------------------------------
+Ref A-35936   Issued 27 Jun 2026   Payment due 11 Aug 2026   Your PO PO-41506
+--------------------------------------------------------
+Item                        Qty             Amount (USD)
+Delivery fee                 12                 4,570.08
+--------------------------------------------------------
+Net                                             4,570.08
+VAT/Tax                                           285.63
+Amount due                                      4,855.71

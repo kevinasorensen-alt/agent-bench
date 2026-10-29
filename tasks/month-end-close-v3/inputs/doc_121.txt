@@ -1,0 +1,14 @@
+Juniper Web Design  |  Tax invoice  |  Denver, CO, USA
+------------------------------------------------------------
+Ref SI-53659   Issued 22 Sep 2026   Payment due 21 Nov 2026   Your PO PO-70394
+------------------------------------------------------------
+Item                        Qty                 Amount (USD)
+Software licence             12                     7,333.80
+Catering for 25               2                     1,006.52
+Consulting hours              5                     1,157.35
+Consulting hours              3                       667.23
+Printing (A4, colour)        10                     6,474.00
+------------------------------------------------------------
+Net                                                16,638.90
+VAT/Tax                                             1,331.11
+Amount due                                         17,970.01

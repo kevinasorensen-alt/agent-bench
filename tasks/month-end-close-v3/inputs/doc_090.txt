@@ -1,0 +1,17 @@
+Nordlicht Software GmbH
+Munich, Germany
+
+Rechnung / Invoice INV-74272
+Rechnungsdatum: 06.09.2026
+Zahlbar bis / Due: 21.10.2026
+Kundennummer: C-8544
+
+  Consulting hours: 8 x 217,42 €
+  Monthly retainer: 11 x 517,07 €
+  Delivery fee: 7 x 896,17 €
+  Catering for 25: 10 x 97,96 €
+  Website maintenance: 7 x 591,58 €
+
+Nettobetrag (net): 18.820,98 €
+MwSt./VAT 19%: 3.575,99 €
+Gesamtbetrag (total): 22.396,97 €

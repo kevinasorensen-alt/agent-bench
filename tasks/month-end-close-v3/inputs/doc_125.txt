@@ -1,0 +1,12 @@
+Juniper Web Design  |  Tax invoice  |  Denver, CO, USA
+------------------------------------------------------------
+Ref BW-5257   Issued 16 Sep 2026   Payment due 31 Oct 2026   Your PO PO-31062
+------------------------------------------------------------
+Item                        Qty                 Amount (USD)
+Courier run                   9                     7,595.01
+Consulting hours              1                       717.86
+Cleaning service              4                     1,004.68
+------------------------------------------------------------
+Net                                                 9,317.55
+VAT/Tax                                               745.40
+Amount due                                         10,062.95

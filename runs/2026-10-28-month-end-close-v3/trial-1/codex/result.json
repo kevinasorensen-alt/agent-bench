@@ -1,0 +1,33 @@
+{
+ "setup": "Codex \u00b7 GPT-6 Astra",
+ "status": "finished",
+ "correct": 1116,
+ "total": 1116,
+ "detail": {
+  "vendor": 124,
+  "doc_type": 124,
+  "invoice_date": 124,
+  "due_date": 124,
+  "currency": 124,
+  "subtotal": 124,
+  "tax": 124,
+  "total": 124,
+  "needs_review": 124
+ },
+ "decoys_included": [],
+ "misses": [],
+ "missing_rows": [],
+ "made_up": [],
+ "double_entries": [],
+ "unknown_rows": [],
+ "rows_found": 124,
+ "cost_usd": 0.7623,
+ "tokens": {
+  "input": 334539,
+  "cached_input": 302848,
+  "output": 2850
+ },
+ "seconds": 93.1,
+ "inputs_modified": false,
+ "extra_files": []
+}

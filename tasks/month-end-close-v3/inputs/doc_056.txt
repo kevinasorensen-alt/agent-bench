@@ -1,0 +1,15 @@
+Juniper Web Design  |  Tax invoice  |  Denver, CO, USA
+------------------------------------------------------------
+Ref A-98812   Issued 4 Sep 2026   Payment due 19 Oct 2026   Your PO PO-31803
+------------------------------------------------------------
+Item                        Qty                 Amount (USD)
+Consulting hours              5                     1,324.60
+Consulting hours              6                     3,381.60
+Catering for 25               8                     1,271.12
+Cleaning service              4                       467.84
+Delivery fee                  1                       592.86
+Catering for 25              12                     1,196.28
+------------------------------------------------------------
+Net                                                 8,234.30
+VAT/Tax                                               658.74
+Amount due                                          8,893.04

@@ -1,0 +1,14 @@
+Juniper Web Design
+Denver, CO, USA
+
+Invoice #: SI-97508
+Invoice Date: 09/05/2026
+Due Date: 11/04/2026
+PO #: PO-54030
+
+  Cleaning service x1 @ $574.61
+  Consulting hours x6 @ $63.77
+
+Subtotal: 957.23 USD
+Sales tax: 0.00 USD
+Total due: 957.23 USD

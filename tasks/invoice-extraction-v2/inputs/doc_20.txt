@@ -1,0 +1,16 @@
+KETTLE & PINE CATERING GMBH
+Hamburg, Germany
+INVOICE
+
+Invoice No: A-34480
+Customer No: C-2532
+Date: June 29, 2026
+Due: August 13, 2026
+
+  Consulting hours x8 @ €596.59
+  Consulting hours x3 @ €887.12
+  Courier run x5 @ €360.36
+
+Subtotal: €9,235.88
+Tax (21.00%): €1,939.53
+TOTAL: €11,175.41

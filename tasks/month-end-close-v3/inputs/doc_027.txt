@@ -1,0 +1,16 @@
+ORBIT COURIER GROUP
+Austin, TX, USA
+INVOICE
+
+Invoice No: A-17354
+Customer No: C-8479
+Date: 2026-09-28
+Due: November 27, 2026
+
+  Printing (A4, colour) x3 @ $703.49
+  Courier run x4 @ $740.10
+  Delivery fee x3 @ $757.90
+
+Subtotal: $7,344.57
+Tax (8.00%): $587.57
+TOTAL: $7,932.14

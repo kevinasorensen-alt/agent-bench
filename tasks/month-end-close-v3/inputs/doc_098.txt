@@ -1,0 +1,14 @@
+Northgate Office Partners Ltd  |  Tax invoice  |  Bristol, United Kingdom
+------------------------------------------------------------
+Ref BW-50851   Issued 28 Sep 2026   Payment due 12 Oct 2026   Your PO PO-88103
+------------------------------------------------------------
+Item                        Qty                 Amount (GBP)
+Delivery fee                  3                     1,657.47
+Equipment rental              6                     1,190.04
+Equipment rental             11                     6,905.80
+Catering for 25               6                     3,459.42
+Monthly retainer              8                     4,205.60
+------------------------------------------------------------
+Net                                                17,418.33
+VAT/Tax                                             3,483.67
+Amount due                                         21,902.00

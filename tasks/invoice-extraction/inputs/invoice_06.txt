@@ -1,0 +1,13 @@
+MOSAIC EVENT RENTALS
+INVOICE
+
+Invoice No: NO-97599
+Date: May 26, 2026
+Due: 10 Jul 2026
+
+  Software licence x10 @ £870.38
+  Printing (A4, colour) x1 @ £328.09
+
+Subtotal: £9,031.89
+Tax (5%): £451.59
+TOTAL: £9,483.48

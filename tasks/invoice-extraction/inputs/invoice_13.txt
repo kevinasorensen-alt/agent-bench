@@ -1,0 +1,10 @@
+Copperleaf Cleaning Ltd  |  Tax invoice
+----------------------------------------------------
+Ref BW-43727   Issued 21 Feb 2026   Payment due 7 Mar 2026
+----------------------------------------------------
+Item                        Qty         Amount (GBP)
+Software licence              9             6,538.41
+----------------------------------------------------
+Net                                         6,538.41
+VAT/Tax                                       326.92
+Amount due                                  6,865.33

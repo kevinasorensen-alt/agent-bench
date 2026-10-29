@@ -1,0 +1,13 @@
+Redfern IT Services  |  Tax invoice
+----------------------------------------------------
+Ref BW-25690   Issued 7 Jul 2026   Payment due 6 Aug 2026
+----------------------------------------------------
+Item                        Qty         Amount (USD)
+Website maintenance          11             2,831.84
+Website maintenance          10             4,695.20
+Consulting hours              9             4,754.70
+Software licence              6             2,437.62
+----------------------------------------------------
+Net                                        14,719.36
+VAT/Tax                                     1,177.55
+Amount due                                 15,896.91

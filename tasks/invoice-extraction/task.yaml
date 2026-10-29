@@ -1,0 +1,29 @@
+# SMOKE-TEST TASK, not for publishing. Three fixed layouts; a regex script written with the layouts
+# in view scores 160/160. The published version needs messier, held-out invoices (public dataset or
+# a generator whose layouts the baseline author never sees), with any non-AI baseline written from
+# a sample split only.
+id: invoice-extraction-v1
+title: Invoice extraction
+track: stack-vs-stack
+source: ours (fictional invoices from make_invoices.py, seed 20261028)
+inputs: inputs            # copied into the contestant's /work/inputs
+output: output.csv        # contestant writes /work/output.csv
+answer_key: answer_key.csv  # never copied into the container
+scorer: invoices
+time_cap_seconds: 900
+cost_cap_usd: 2.00
+trials: 3
+pass_bar: "Reported as % of 160 fields correct; no pass/fail bar for this task"
+prompt: |
+  The folder /work/inputs contains 20 invoices as text files, in different layouts.
+  Extract these fields from every invoice and write them to /work/output.csv:
+
+  file,invoice_number,vendor,invoice_date,due_date,currency,subtotal,tax,total
+
+  Rules:
+  - One row per invoice. "file" is the file name, for example invoice_01.txt.
+  - Dates as YYYY-MM-DD.
+  - currency as a 3-letter code: USD, EUR or GBP.
+  - subtotal, tax and total as plain numbers with 2 decimals and no symbols or commas, for example 1234.50.
+  - vendor exactly as the company name is written on the invoice.
+  - Do not change the files in /work/inputs.

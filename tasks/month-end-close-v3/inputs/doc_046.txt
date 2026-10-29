@@ -1,0 +1,17 @@
+Redfern IT Services
+Columbus, OH, USA
+
+Invoice #: INV-3204
+Invoice Date: 09/04/2026
+Due Date: 10/19/2026
+PO #: PO-17932
+
+  Printing (A4, colour) x7 @ $445.63
+  Website maintenance x1 @ $731.81
+  Website maintenance x10 @ $512.65
+  Delivery fee x8 @ $266.26
+  Catering for 25 x9 @ $67.04
+
+Subtotal: 11,711.16 USD
+Sales tax: 936.89 USD
+Total due: 12,648.05 USD

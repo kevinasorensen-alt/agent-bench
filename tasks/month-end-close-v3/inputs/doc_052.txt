@@ -1,0 +1,17 @@
+REDFERN IT SERVICES
+Columbus, OH, USA
+INVOICE
+
+Invoice No: SI-56408
+Customer No: C-1113
+Date: 2 Sep 2026
+Due: October 17, 2026
+
+  Courier run x8 @ $505.31
+  Printing (A4, colour) x8 @ $469.21
+  Delivery fee x10 @ $400.50
+  Catering for 25 x10 @ $642.52
+
+Subtotal: $18,226.36
+Tax (6.25%): $1,139.15
+TOTAL: $19,365.51

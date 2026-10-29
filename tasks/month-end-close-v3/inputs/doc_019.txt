@@ -1,0 +1,15 @@
+NORTHGATE OFFICE PARTNERS LTD
+Bristol, United Kingdom
+INVOICE
+
+Invoice No: SI-30999
+Customer No: C-2401
+Date: 23 Sep 2026
+Due: 22 Nov 2026
+
+  Consulting hours x3 @ £16.16
+  Website maintenance x10 @ £618.56
+
+Subtotal: £6,234.08
+Tax (0.00%): £0.00
+TOTAL: £6,234.08

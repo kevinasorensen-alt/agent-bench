@@ -1,0 +1,7 @@
+file,is_invoice,layout,invoice_number,vendor,invoice_date,due_date,currency,subtotal,tax,total
+sample_01.txt,yes,plain,SI-87654,Mosaic Event Rentals B.V.,2026-04-24,2026-05-24,EUR,4436.95,887.39,5324.34
+sample_02.txt,yes,table,IN-26124,Copperleaf Cleaning Ltd,2026-04-20,2026-06-19,GBP,3150.72,630.14,3780.86
+sample_03.txt,yes,email,A-80376,Redfern IT Services,2026-02-21,2026-03-07,USD,18570.33,1160.65,19730.98
+sample_04.txt,yes,plain,SI-62802,Redfern IT Services,2026-08-07,2026-09-06,USD,10768.17,0.00,10768.17
+sample_05.txt,yes,table,NO-63377,Brightwater Supply Co.,2026-09-18,2026-11-02,USD,11565.09,0.00,11565.09
+sample_06.txt,yes,email,A-94330,Juniper Web Design,2026-04-30,2026-05-14,USD,5158.87,322.43,5481.30

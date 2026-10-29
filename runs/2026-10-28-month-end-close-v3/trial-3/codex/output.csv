@@ -1,0 +1,125 @@
+file,invoice_number,vendor,doc_type,invoice_date,due_date,currency,subtotal,tax,total,needs_review
+doc_001.txt,NO-89665,Cascade Office Furniture Inc.,invoice,2026-09-23,2026-11-22,USD,5461.17,436.89,5898.06,no
+doc_002.txt,SI-15195,Harbor Line Logistics Ltd,invoice,2026-09-24,2026-11-23,GBP,9137.10,0.00,9137.10,no
+doc_004.txt,BW-72666,Brightwater Supply Co.,invoice,2026-09-28,,USD,4041.16,0.00,4041.16,no
+doc_005.txt,A-30734,HARBOR LINE LOGISTICS LTD,invoice,2026-09-20,2026-10-04,GBP,12617.13,0.00,12617.13,no
+doc_008.txt,A-50307,Juniper Web Design,invoice,2026-09-01,,USD,8085.99,0.00,8085.99,no
+doc_009.txt,IN-74858,Juniper Web Design,invoice,2026-09-12,2026-09-26,USD,21001.39,1680.11,22681.50,no
+doc_010.txt,SI-9034,Cascade Office Furniture Inc.,invoice,2026-09-30,2026-11-29,USD,3307.80,264.62,3572.42,no
+doc_011.txt,INV-59650,Copperleaf Cleaning Ltd,invoice,2026-09-28,2026-10-28,GBP,9362.32,0.00,9362.32,no
+doc_012.txt,CR-14940,Kettle & Pine Catering GmbH,credit_note,2026-09-20,,EUR,-12702.34,-2413.44,-15115.78,no
+doc_013.txt,SI-47218,Kettle & Pine Catering GmbH,invoice,2026-09-13,2026-11-12,EUR,15363.21,3072.64,18435.85,no
+doc_014.txt,A-24164,Cascade Office Furniture Inc.,invoice,2026-09-10,2026-09-24,USD,7687.49,0.00,7687.49,no
+doc_015.txt,NO-13114,Lumen Print Studio SARL,invoice,2026-09-01,,EUR,17389.55,3304.01,20693.56,no
+doc_016.txt,SI-8866,Brightwater Supply Co.,invoice,2026-09-07,2026-10-07,USD,2914.52,233.16,3147.68,no
+doc_017.txt,BW-22897,Mosaic Event Rentals B.V.,invoice,2026-09-06,2026-11-05,EUR,9602.39,2016.50,11618.89,no
+doc_018.txt,NO-51663,Juniper Web Design,invoice,2026-09-13,2026-11-12,USD,19523.40,1561.87,21085.27,no
+doc_019.txt,SI-30999,NORTHGATE OFFICE PARTNERS LTD,invoice,2026-09-23,2026-11-22,GBP,6234.08,0.00,6234.08,no
+doc_020.txt,NO-47006,Cascade Office Furniture Inc.,invoice,2026-09-22,2026-11-06,USD,11491.93,919.35,12411.28,no
+doc_021.txt,IN-61464,Juniper Web Design,invoice,2026-09-01,2026-10-16,USD,7786.82,0.00,7786.82,no
+doc_022.txt,CR-13388,Copperleaf Cleaning Ltd,credit_note,2026-09-02,,GBP,-2149.86,-429.97,-2579.83,no
+doc_023.txt,NO-65558,Redfern IT Services,invoice,2026-09-01,2026-10-16,USD,10548.85,0.00,10548.85,no
+doc_025.txt,A-82446,Brightwater Supply Co.,invoice,2026-09-12,2026-10-12,USD,9422.04,753.76,10175.80,no
+doc_026.txt,NO-19961,Juniper Web Design,invoice,2026-09-24,2026-10-08,USD,11438.66,0.00,11438.66,no
+doc_027.txt,A-17354,ORBIT COURIER GROUP,invoice,2026-09-28,2026-11-27,USD,7344.57,587.57,7932.14,no
+doc_028.txt,NO-34822,BRIGHTWATER SUPPLY CO.,invoice,2026-09-15,2026-11-14,USD,7755.64,620.45,8376.09,no
+doc_029.txt,IN-56636,Cascade Office Furniture Inc.,invoice,2026-09-19,2026-11-18,USD,16745.37,1046.59,17791.96,no
+doc_031.txt,CN-81966,Copperleaf Cleaning Ltd,credit_note,2026-09-09,,GBP,-13407.79,-2681.56,-16089.35,no
+doc_032.txt,NO-22271,Kettle & Pine Catering GmbH,invoice,2026-09-28,,EUR,5999.82,1259.96,7259.78,no
+doc_033.txt,IN-73140,Orbit Courier Group,invoice,2026-09-24,2026-11-23,USD,506.83,31.68,538.51,no
+doc_033.txt,NO-83067,Orbit Courier Group,invoice,2026-09-14,2026-09-28,USD,5215.83,0.00,5215.83,no
+doc_033.txt,NO-39363,Orbit Courier Group,invoice,2026-09-13,2026-09-27,USD,18197.31,1455.78,19653.09,no
+doc_035.txt,SI-79258,Mosaic Event Rentals B.V.,invoice,2026-09-17,2026-11-16,EUR,2888.64,577.73,3466.37,no
+doc_036.txt,BW-36805,Copperleaf Cleaning Ltd,invoice,2026-09-15,2026-10-30,GBP,14895.79,0.00,14895.79,no
+doc_037.txt,IN-46458,KETTLE & PINE CATERING GMBH,invoice,2026-09-15,2026-10-15,EUR,9744.35,1851.43,11595.78,no
+doc_038.txt,IN-90007,Redfern IT Services,invoice,2026-09-06,2026-11-05,USD,20687.84,0.00,20687.84,no
+doc_040.txt,A-87666,Orbit Courier Group,invoice,2026-09-11,2026-11-10,USD,562.44,45.00,607.44,no
+doc_041.txt,IN-30626,Harbor Line Logistics Ltd,invoice,2026-09-05,2026-10-20,GBP,18534.93,0.00,18534.93,no
+doc_042.txt,NO-85702,Kettle & Pine Catering GmbH,invoice,2026-09-26,2026-11-25,EUR,21187.47,4237.49,25424.96,no
+doc_043.txt,CN-88664,Brightwater Supply Co.,credit_note,2026-09-25,,USD,-437.45,-27.34,-464.79,no
+doc_044.txt,NO-13315,Mosaic Event Rentals B.V.,invoice,2026-09-24,2026-11-08,EUR,1172.08,246.14,1418.22,no
+doc_045.txt,A-39270,Cascade Office Furniture Inc.,invoice,2026-09-08,2026-11-07,USD,3664.58,229.04,3893.62,no
+doc_046.txt,INV-3204,Redfern IT Services,invoice,2026-09-04,2026-10-19,USD,11711.16,936.89,12648.05,no
+doc_048.txt,IN-20737,Nordlicht Software GmbH,invoice,2026-09-09,2026-10-09,EUR,15290.18,3058.04,18348.22,no
+doc_050.txt,SI-51297,Harbor Line Logistics Ltd,invoice,2026-09-22,2026-10-06,GBP,8352.24,1670.45,10022.69,no
+doc_051.txt,A-48793,Cascade Office Furniture Inc.,invoice,2026-09-08,2026-10-23,USD,13941.70,871.36,14813.06,no
+doc_052.txt,SI-56408,REDFERN IT SERVICES,invoice,2026-09-02,2026-10-17,USD,18226.36,1139.15,19365.51,no
+doc_053.txt,A-76266,Nordlicht Software GmbH,invoice,2026-09-01,2026-09-15,EUR,5533.68,1162.07,6695.75,no
+doc_055.txt,BW-57627,Redfern IT Services,invoice,2026-09-18,2026-11-02,USD,9648.84,0.00,9648.84,no
+doc_056.txt,A-98812,Juniper Web Design,invoice,2026-09-04,2026-10-19,USD,8234.30,658.74,8893.04,no
+doc_058.txt,INV-34304,Northgate Office Partners Ltd,invoice,2026-09-23,2026-10-07,GBP,2964.72,0.00,2964.72,no
+doc_059.txt,INV-5225,Lumen Print Studio SARL,invoice,2026-09-11,2026-10-11,EUR,2795.38,559.08,3354.46,no
+doc_060.txt,IN-68401,Kettle & Pine Catering GmbH,invoice,2026-09-05,2026-11-04,EUR,10842.15,2060.01,12902.16,no
+doc_061.txt,IN-95105,Brightwater Supply Co.,invoice,2026-09-17,2026-11-16,USD,10569.20,0.00,10569.20,no
+doc_062.txt,SI-3179,ORBIT COURIER GROUP,invoice,2026-09-14,2026-11-13,USD,11292.53,705.78,11998.31,no
+doc_063.txt,SI-94946,Copperleaf Cleaning Ltd,invoice,2026-09-19,,GBP,10243.98,2048.80,12292.78,no
+doc_064.txt,SI-39249,Copperleaf Cleaning Ltd,invoice,2026-09-21,2026-10-05,GBP,14244.44,2848.89,17093.33,no
+doc_065.txt,A-93990,Copperleaf Cleaning Ltd,invoice,2026-09-27,2026-11-11,GBP,14287.63,2857.53,17145.16,no
+doc_066.txt,A-19540,Cascade Office Furniture Inc.,invoice,2026-09-05,2026-10-20,USD,4679.84,292.49,4972.33,no
+doc_067.txt,A-97769,Kettle & Pine Catering GmbH,invoice,2026-09-19,2026-11-18,EUR,6220.64,1244.13,7464.77,no
+doc_069.txt,INV-84694,Lumen Print Studio SARL,invoice,2026-09-22,2026-11-06,EUR,15016.52,2853.14,17869.66,no
+doc_070.txt,IN-19802,JUNIPER WEB DESIGN,invoice,2026-09-02,2026-11-01,USD,13097.76,1047.82,14145.58,no
+doc_073.txt,SI-71729,COPPERLEAF CLEANING LTD,invoice,2026-09-20,2026-10-20,GBP,1624.59,0.00,1624.59,no
+doc_074.txt,NO-75816,Copperleaf Cleaning Ltd,invoice,2026-09-21,2026-10-05,GBP,661.10,132.22,793.32,no
+doc_075.txt,IN-86066,Lumen Print Studio SARL,invoice,2026-09-19,,EUR,2280.04,478.81,2758.85,no
+doc_076.txt,SI-92854,Orbit Courier Group,invoice,2026-09-11,2026-11-10,USD,10283.70,642.73,11926.43,yes
+doc_077.txt,INV-31197,Juniper Web Design,invoice,2026-09-27,2026-10-11,USD,1515.88,94.74,1610.62,no
+doc_078.txt,SI-26138,Lumen Print Studio SARL,invoice,2026-09-18,2026-11-02,EUR,5937.46,1128.12,7055.58,yes
+doc_079.txt,SI-39900,Kettle & Pine Catering GmbH,invoice,2026-09-13,,EUR,2725.86,572.43,3298.29,no
+doc_080.txt,CN-9603,Copperleaf Cleaning Ltd,credit_note,2026-09-27,,GBP,-3324.03,0.00,-3324.03,no
+doc_081.txt,NO-77970,Copperleaf Cleaning Ltd,invoice,2026-09-27,2026-10-27,GBP,9019.04,0.00,9019.04,no
+doc_082.txt,SI-90196,Harbor Line Logistics Ltd,invoice,2026-09-10,2026-10-25,GBP,30481.09,6096.22,36577.31,no
+doc_083.txt,INV-45748,NORDLICHT SOFTWARE GMBH,invoice,2026-09-20,2026-11-04,EUR,6714.80,1410.11,8124.91,no
+doc_084.txt,IN-68294,Harbor Line Logistics Ltd,invoice,2026-09-07,2026-10-22,GBP,14937.28,2987.46,17924.74,no
+doc_085.txt,INV-96455,Nordlicht Software GmbH,invoice,2026-09-04,2026-09-18,EUR,6043.40,1269.11,7312.51,no
+doc_086.txt,A-65082,Copperleaf Cleaning Ltd,invoice,2026-09-25,2026-10-25,GBP,2954.50,0.00,2954.50,no
+doc_087.txt,INV-38005,Northgate Office Partners Ltd,invoice,2026-09-05,2026-09-19,GBP,3441.30,0.00,3441.30,no
+doc_088.txt,INV-20452,Orbit Courier Group,invoice,2026-09-12,2026-10-12,USD,14223.54,1137.88,15361.42,no
+doc_089.txt,IN-51960,Harbor Line Logistics Ltd,invoice,2026-09-04,2026-10-04,GBP,7774.83,1554.97,9329.80,no
+doc_090.txt,INV-74272,Nordlicht Software GmbH,invoice,2026-09-06,2026-10-21,EUR,18820.98,3575.99,22396.97,no
+doc_091.txt,A-45885,Nordlicht Software GmbH,invoice,2026-09-28,2026-11-27,EUR,16883.10,3545.45,20437.55,yes
+doc_092.txt,SI-82779,Redfern IT Services,invoice,2026-09-21,2026-11-05,USD,7441.32,0.00,7441.32,no
+doc_093.txt,INV-26434,Orbit Courier Group,invoice,2026-09-22,2026-11-06,USD,10668.45,853.48,11521.93,no
+doc_094.txt,CN-28124,Juniper Web Design,credit_note,2026-09-17,,USD,-931.32,-74.51,-1005.83,no
+doc_095.txt,BW-32657,Juniper Web Design,invoice,2026-09-08,2026-09-22,USD,7643.35,0.00,7643.35,no
+doc_096.txt,BW-98975,Copperleaf Cleaning Ltd,invoice,2026-09-16,2026-10-16,GBP,18907.16,3781.43,22688.59,no
+doc_097.txt,NO-10573,Cascade Office Furniture Inc.,invoice,2026-09-16,2026-11-15,USD,6454.40,403.40,6857.80,no
+doc_098.txt,BW-50851,Northgate Office Partners Ltd,invoice,2026-09-28,2026-10-12,GBP,17418.33,3483.67,21902.00,yes
+doc_100.txt,IN-92665,Redfern IT Services,invoice,2026-09-16,2026-09-30,USD,5478.24,342.39,5820.63,no
+doc_102.txt,INV-44183,Orbit Courier Group,invoice,2026-09-17,2026-10-01,USD,1848.24,147.86,1996.10,no
+doc_103.txt,SI-1647,Copperleaf Cleaning Ltd,invoice,2026-09-11,2026-11-10,GBP,6479.30,0.00,6479.30,no
+doc_104.txt,CR-27405,Juniper Web Design,credit_note,2026-09-12,,USD,-11416.94,0.00,-11416.94,no
+doc_105.txt,A-26243,Juniper Web Design,invoice,2026-09-01,2026-10-16,USD,9783.07,782.65,10565.72,no
+doc_106.txt,SI-43271,Copperleaf Cleaning Ltd,invoice,2026-09-25,2026-11-09,GBP,16018.80,0.00,16018.80,no
+doc_107.txt,IN-87055,Brightwater Supply Co.,invoice,2026-09-16,,USD,14651.16,915.70,15566.86,no
+doc_108.txt,SI-96827,Harbor Line Logistics Ltd,invoice,2026-09-10,2026-10-10,GBP,3130.68,626.14,3756.82,no
+doc_108.txt,BW-15827,Harbor Line Logistics Ltd,invoice,2026-09-28,2026-11-12,GBP,18907.36,3781.47,22688.83,no
+doc_108.txt,BW-85211,Harbor Line Logistics Ltd,invoice,2026-09-30,2026-10-14,GBP,21364.94,4272.99,25637.93,no
+doc_109.txt,SI-97508,Juniper Web Design,invoice,2026-09-05,2026-11-04,USD,957.23,0.00,957.23,no
+doc_110.txt,A-12144,Lumen Print Studio SARL,invoice,2026-09-28,2026-10-12,EUR,498.63,104.71,603.34,no
+doc_111.txt,BW-30118,Redfern IT Services,invoice,2026-09-10,2026-11-09,USD,306.95,19.18,335.13,yes
+doc_112.txt,A-55181,Northgate Office Partners Ltd,invoice,2026-09-05,2026-11-04,GBP,10641.08,2128.22,12769.30,no
+doc_113.txt,SI-86583,Northgate Office Partners Ltd,invoice,2026-09-26,2026-10-26,GBP,10989.80,0.00,10989.80,no
+doc_114.txt,BW-61718,Redfern IT Services,invoice,2026-09-19,2026-11-03,USD,19336.80,1208.55,20545.35,no
+doc_115.txt,IN-8058,Harbor Line Logistics Ltd,invoice,2026-09-15,2026-10-30,GBP,9820.64,1964.13,11784.77,no
+doc_116.txt,BW-95762,MOSAIC EVENT RENTALS B.V.,invoice,2026-09-24,2026-11-23,EUR,11407.56,2167.44,13575.00,no
+doc_117.txt,NO-87648,Redfern IT Services,invoice,2026-09-08,2026-11-07,USD,17209.05,0.00,17209.05,no
+doc_118.txt,SI-36017,Harbor Line Logistics Ltd,invoice,2026-09-30,,GBP,9671.18,1934.24,11605.42,no
+doc_119.txt,SI-37082,Redfern IT Services,invoice,2026-09-27,2026-11-26,USD,14800.75,925.05,15725.80,no
+doc_120.txt,A-62405,Northgate Office Partners Ltd,invoice,2026-09-09,2026-10-24,GBP,4317.20,863.44,5180.64,no
+doc_121.txt,SI-53659,Juniper Web Design,invoice,2026-09-22,2026-11-21,USD,16638.90,1331.11,17970.01,no
+doc_122.txt,SI-16212,Harbor Line Logistics Ltd,invoice,2026-09-20,2026-11-19,GBP,8156.07,1631.21,9787.28,no
+doc_123.txt,BW-10399,Redfern IT Services,invoice,2026-09-29,,USD,5444.78,340.30,5785.08,no
+doc_125.txt,BW-5257,Juniper Web Design,invoice,2026-09-16,2026-10-31,USD,9317.55,745.40,10062.95,no
+doc_127.txt,A-14650,Cascade Office Furniture Inc.,invoice,2026-09-23,2026-10-07,USD,10471.50,837.72,11309.22,no
+doc_128.txt,SI-96099,HARBOR LINE LOGISTICS LTD,invoice,2026-09-25,2026-10-25,GBP,15158.69,0.00,15158.69,no
+doc_129.txt,INV-58799,Brightwater Supply Co.,invoice,2026-09-05,2026-11-04,USD,14201.50,1136.12,15337.62,no
+doc_130.txt,INV-37325,Copperleaf Cleaning Ltd,invoice,2026-09-20,2026-11-19,GBP,20755.21,4151.04,24906.25,no
+doc_131.txt,NO-52276,HARBOR LINE LOGISTICS LTD,invoice,2026-09-25,2026-10-09,GBP,8645.64,0.00,8645.64,no
+doc_132.txt,CN-96147,Orbit Courier Group,credit_note,2026-09-11,,USD,-7560.66,-472.54,-8033.20,no
+doc_133.txt,INV-54858,Redfern IT Services,invoice,2026-09-10,2026-10-10,USD,14805.28,1184.42,15989.70,no
+doc_134.txt,INV-98241,BRIGHTWATER SUPPLY CO.,invoice,2026-09-25,2026-11-09,USD,6113.14,0.00,6113.14,no
+doc_135.txt,SI-58843,Northgate Office Partners Ltd,invoice,2026-09-12,2026-09-26,GBP,12190.21,2438.04,14628.25,no
+doc_136.txt,IN-83404,Brightwater Supply Co.,invoice,2026-09-16,2026-10-16,USD,844.70,0.00,844.70,no
+doc_137.txt,SI-31487,NORDLICHT SOFTWARE GMBH,invoice,2026-09-29,2026-10-29,EUR,7826.33,1643.53,10469.86,yes
+doc_138.txt,IN-9130,Lumen Print Studio SARL,invoice,2026-09-22,2026-10-22,EUR,13279.09,2655.82,15934.91,no

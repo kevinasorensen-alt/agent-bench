@@ -1,0 +1,18 @@
+MOSAIC EVENT RENTALS B.V.
+Utrecht, Netherlands
+INVOICE
+
+Invoice No: INV-88355
+Customer No: C-4138
+Date: 20 May 2026
+Due: July 4, 2026
+
+  Delivery fee x8 @ €39.22
+  Cleaning service x11 @ €718.33
+  Website maintenance x10 @ €416.18
+  Delivery fee x4 @ €520.42
+  Courier run x2 @ €508.34
+
+Subtotal: €15,475.55
+Tax (21.00%): €3,249.87
+TOTAL: €18,725.42

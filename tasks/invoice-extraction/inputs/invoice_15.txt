@@ -1,0 +1,14 @@
+SILVERPEAK CONSULTING
+INVOICE
+
+Invoice No: BW-21112
+Date: 28 Mar 2026
+Due: May 12, 2026
+
+  Consulting hours x7 @ $276.52
+  Cleaning service x10 @ $669.26
+  Printing (A4, colour) x8 @ $652.10
+
+Subtotal: $13,845.04
+Tax (0%): $0.00
+TOTAL: $13,845.04

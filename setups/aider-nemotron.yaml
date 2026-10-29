@@ -1,0 +1,17 @@
+# Aider with NVIDIA's open Nemotron 3 Ultra through the NVIDIA API (free developer tier).
+# Calls go through the bench's metering proxy, which adds the NVIDIA key on the host: the key never
+# enters the container, and every token is counted by the bench, not reported by the tool.
+# Build: docker build -t agent-bench/aider:0.86.2 --build-arg AIDER_VERSION=0.86.2 -f agent-bench/docker/aider.Dockerfile agent-bench/docker
+# The invoices are added read-only (--read); Aider may only write output.csv.
+name: Aider · Nemotron 3 Ultra
+image: agent-bench/aider:0.86.2
+network: bridge
+upstream: nvidia            # provider name in config/models.json
+cost: metered-proxy
+prices_usd_per_mtok: {input: 0, cached_input: 0, output: 0}   # free developer tier; tokens still counted
+env: []
+command: >-
+  aider --model openai/nvidia/nemotron-3-ultra-550b-a55b --openai-api-base "$BENCH_API_BASE" --openai-api-key via-proxy
+  --no-git --yes-always --no-auto-commits --no-show-model-warnings --no-check-update --analytics-disable --no-pretty
+  --edit-format whole $(for f in inputs/*.txt; do printf -- '--read %s ' "$f"; done) --file output.csv
+  --message "$BENCH_PROMPT"

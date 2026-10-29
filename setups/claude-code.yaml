@@ -1,0 +1,18 @@
+# Plain Claude Code on the principal's Claude plan, headless. Cost shown is Claude Code's own
+# API-equivalent estimate (the plan itself isn't billed per token).
+# Build: docker build -t agent-bench/claude-code:2.1.312 --build-arg CLAUDE_CODE_VERSION=2.1.312 -f agent-bench/docker/claude-code.Dockerfile agent-bench/docker
+# Login: a per-trial copy of the host's Claude login with only the access token. No refresh token, so the
+# container can never rotate (and so break) the host's login, and no other logins from the same file.
+# If the token expires before the time cap, the setup doesn't start: use Claude Code once on the host to renew it.
+name: Claude Code · Opus 5.5
+image: agent-bench/claude-code:2.1.312
+network: bridge
+command: claude -p "$BENCH_PROMPT" --model claude-opus-5-5 --output-format stream-json --verbose --dangerously-skip-permissions
+env: []
+secret_files:
+  - from: "~/.claude/.credentials.json"
+    to_dir: /home/node/.claude
+    expires_at: claudeAiOauth.expiresAt
+    keep:
+      claudeAiOauth: [accessToken, expiresAt, scopes, subscriptionType, subscriptionTypeSource, rateLimitTier]
+cost: claude-stream-json

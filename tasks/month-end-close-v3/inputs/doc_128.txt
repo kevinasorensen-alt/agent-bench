@@ -1,0 +1,19 @@
+HARBOR LINE LOGISTICS LTD
+Glasgow, United Kingdom
+INVOICE
+
+Invoice No: SI-96099
+Customer No: C-3097
+Date: September 25, 2026
+Due: 25 Oct 2026
+
+  Monthly retainer x10 @ £287.70
+  Printing (A4, colour) x6 @ £323.83
+  Software licence x2 @ £93.95
+  Monthly retainer x4 @ £402.13
+  Monthly retainer x9 @ £570.47
+  Equipment rental x6 @ £568.01
+
+Subtotal: £15,158.69
+Tax (0.00%): £0.00
+TOTAL: £15,158.69

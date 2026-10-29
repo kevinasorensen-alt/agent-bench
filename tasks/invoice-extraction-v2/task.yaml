@@ -1,0 +1,44 @@
+# Pre-registered spec. Don't edit after a published run; make a v3 instead. Design notes: NOTES.md (not for baseline authors).
+id: invoice-extraction-v2
+title: Invoice extraction (v2)
+track: stack-vs-stack
+source: ours (fictional, make_invoices.py, seed 20261028; byte-identical rebuild)
+inputs: inputs
+output: output.csv
+answer_key: answer_key.csv  # never copied into the container
+scorer: invoices
+time_cap_seconds: 1200
+cost_cap_usd: 3.00
+trials: 3
+pass_bar: "None. Reported as points out of 320 (40 invoices x 8 fields); each decoy included costs 8 points"
+layout_names:   # spoken names for the layouts in answer_key.csv (narration only)
+  plain: plain-text invoices
+  table: table-style invoices
+  email: forwarded emails
+  letter_eu: German-format invoices
+  ocr_noisy: scanned invoices with OCR errors
+  statement: invoices with a part-payment
+  us_numeric: US-dated invoices
+  uk_numeric: UK-dated invoices
+  two_page: two-page invoices
+narration: >-
+  Forty invoices in nine different layouts, plus three documents that aren't invoices at all and have to be
+  left out. Every field is checked against an answer key: three hundred and twenty points.
+prompt: |
+  The folder /work/inputs contains 43 business documents as text files. Most are invoices, in many
+  different layouts. Some are not invoices (quotes, payment receipts, purchase orders): leave those out.
+  A forwarded email that contains an invoice counts as an invoice.
+
+  For every invoice, write one row to /work/output.csv with this header:
+
+  file,invoice_number,vendor,invoice_date,due_date,currency,subtotal,tax,total
+
+  Rules:
+  - "file" is the file name, for example doc_01.txt.
+  - vendor is the company that issued the invoice, with its name as printed on the invoice.
+  - Dates as YYYY-MM-DD. Numeric dates follow the convention of the vendor's country.
+  - currency as a 3-letter code: USD, EUR or GBP.
+  - subtotal is the amount before tax, tax is the tax amount, total is the invoice total including tax,
+    before any payments or credits. Plain numbers with 2 decimals, no symbols or thousands separators,
+    for example 1234.50.
+  - Do not change the files in /work/inputs.

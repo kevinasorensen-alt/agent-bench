@@ -1,0 +1,13 @@
+Brightwater Supply Co.  |  Tax invoice  |  Portland, OR, USA
+------------------------------------------------------------
+Ref INV-58799   Issued 5 Sep 2026   Payment due 4 Nov 2026   Your PO PO-63770
+------------------------------------------------------------
+Item                        Qty                 Amount (USD)
+Printing (A4, colour)         6                     3,984.00
+Monthly retainer             12                     3,269.52
+Delivery fee                  4                     3,467.20
+Cleaning service              6                     3,480.78
+------------------------------------------------------------
+Net                                                14,201.50
+VAT/Tax                                             1,136.12
+Amount due                                         15,337.62

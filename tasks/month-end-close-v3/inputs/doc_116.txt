@@ -1,0 +1,15 @@
+MOSAIC EVENT RENTALS B.V.
+Utrecht, Netherlands
+INVOICE
+
+Invoice No: BW-95762
+Customer No: C-1279
+Date: September 24, 2026
+Due: 2026-11-23
+
+  Courier run x12 @ €230.62
+  Website maintenance x12 @ €720.01
+
+Subtotal: €11,407.56
+Tax (19.00%): €2,167.44
+TOTAL: €13,575.00

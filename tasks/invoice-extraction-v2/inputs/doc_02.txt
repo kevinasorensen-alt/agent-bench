@@ -1,0 +1,17 @@
+Lumen Print Studio SARL
+Lyon, France
+
+Rechnung / Invoice IN-20803
+Rechnungsdatum: 31.03.2026
+Zahlbar bis / Due: 15.05.2026
+Kundennummer: C-7284
+
+  Courier run: 4 x 596,24 €
+  Courier run: 4 x 170,63 €
+  Catering for 25: 2 x 888,29 €
+  Consulting hours: 3 x 630,97 €
+  Software licence: 7 x 101,49 €
+
+Nettobetrag (net): 7.447,40 €
+MwSt./VAT 21%: 1.563,95 €
+Gesamtbetrag (total): 9.011,35 €

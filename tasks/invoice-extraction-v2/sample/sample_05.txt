@@ -1,0 +1,13 @@
+Brightwater Supply Co.  |  Tax invoice  |  Portland, OR, USA
+--------------------------------------------------------
+Ref NO-63377   Issued 18 Sep 2026   Payment due 2 Nov 2026   Your PO PO-23515
+--------------------------------------------------------
+Item                        Qty             Amount (USD)
+Courier run                   1                    70.05
+Equipment rental              3                 2,064.48
+Consulting hours             12                   267.12
+Monthly retainer             11                 9,163.44
+--------------------------------------------------------
+Net                                            11,565.09
+VAT/Tax                                             0.00
+Amount due                                     11,565.09

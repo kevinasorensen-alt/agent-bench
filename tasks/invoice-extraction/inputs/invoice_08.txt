@@ -1,0 +1,15 @@
+KETTLE & PINE CATERING
+INVOICE
+
+Invoice No: INV-40033
+Date: 2026-07-29
+Due: August 28, 2026
+
+  Courier run x5 @ €131.85
+  Website maintenance x7 @ €223.40
+  Monthly retainer x4 @ €295.06
+  Website maintenance x9 @ €18.72
+
+Subtotal: €3,571.77
+Tax (20%): €714.35
+TOTAL: €4,286.12

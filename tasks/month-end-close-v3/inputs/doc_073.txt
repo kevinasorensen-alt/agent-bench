@@ -1,0 +1,14 @@
+COPPERLEAF CLEANING LTD
+Leeds, United Kingdom
+INVOICE
+
+Invoice No: SI-71729
+Customer No: C-1404
+Date: 20 Sep 2026
+Due: 20 Oct 2026
+
+  Consulting hours x11 @ £147.69
+
+Subtotal: £1,624.59
+Tax (0.00%): £0.00
+TOTAL: £1,624.59

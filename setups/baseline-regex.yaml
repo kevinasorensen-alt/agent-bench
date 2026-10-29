@@ -1,0 +1,6 @@
+name: Regex script (no AI)
+image: python:3.12-slim
+network: none
+command: python /bench-tools/regex_invoices.py
+env: []
+cost: none

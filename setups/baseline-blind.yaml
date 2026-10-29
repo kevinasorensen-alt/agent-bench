@@ -1,0 +1,9 @@
+# Non-AI baseline written blind by a separate agent from the task prompt and sample/ only.
+name: Blind script (no AI)
+image: python:3.12-slim
+network: none
+command: python /bench-tools/blind_invoices_v2.py
+env: []
+cost: none
+narration: >-
+  There's no AI inside it, but an AI coding agent wrote it, blind, from six sample invoices in three layouts.

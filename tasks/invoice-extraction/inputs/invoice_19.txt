@@ -1,0 +1,15 @@
+COPPERLEAF CLEANING LTD
+INVOICE
+
+Invoice No: IN-51747
+Date: 15 Feb 2026
+Due: 2026-03-01
+
+  Catering for 25 x5 @ $157.47
+  Equipment rental x9 @ $131.32
+  Printing (A4, colour) x4 @ $259.80
+  Cleaning service x4 @ $697.25
+
+Subtotal: $5,797.43
+Tax (5%): $289.87
+TOTAL: $6,087.30

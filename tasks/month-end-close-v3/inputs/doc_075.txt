@@ -1,0 +1,13 @@
+Lumen Print Studio SARL  |  Tax invoice  |  Lyon, France
+------------------------------------------------------------
+Ref IN-86066   Issued 19 Sep 2026   Your PO PO-46031
+------------------------------------------------------------
+Item                        Qty                 Amount (EUR)
+Printing (A4, colour)         1                       448.70
+Catering for 25               6                       594.18
+Software licence              4                       992.24
+Website maintenance           1                       244.92
+------------------------------------------------------------
+Net                                                 2,280.04
+VAT/Tax                                               478.81
+Amount due                                          2,758.85
